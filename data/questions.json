@@ -1,0 +1,3267 @@
+{
+  "generated_for": "greword",
+  "questions": [
+    {
+      "id": "tc1-001",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "biology",
+      "stem": "Because the marsh orchid tolerates only a narrow band of soil acidity, its distribution is ___(i)___ rather than continuous: colonies appear wherever the chemistry happens to suit them and are absent from long stretches of otherwise similar ground.",
+      "blanks": [
+        {
+          "choices": [
+            "homogeneous",
+            "transient",
+            "ubiquitous",
+            "sporadic",
+            "pervasive"
+          ],
+          "answer": 3
+        }
+      ],
+      "explanation": "The colon explains the blank: colonies appear here and there and are missing from long stretches, so the distribution is scattered and irregular, which is 'sporadic'. 'Ubiquitous' and 'pervasive' say the orchid is everywhere, the reverse of the cue. 'Transient' is about time, but the sentence is about space. 'Homogeneous' sounds scientific and could describe a distribution in isolation, but it means uniform, which contradicts 'rather than continuous'.",
+      "words_used": [
+        "sporadic",
+        "ubiquitous",
+        "transient",
+        "homogeneous",
+        "pervasive"
+      ]
+    },
+    {
+      "id": "tc2-001",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "Contemporaries praised the minister's ___(i)___ in the negotiations, noting that he yielded on symbolic points in order to win concessions of substance; later historians, less impressed, have described the same man as ___(ii)___, given to yielding on any point whenever he was pressed.",
+      "blanks": [
+        {
+          "choices": [
+            "temerity",
+            "largess",
+            "acumen"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "docile",
+            "disingenuous",
+            "obdurate"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The participial phrase restates blank (i): trading symbolic points for substantive gains is shrewd judgment, so 'acumen'. 'Temerity' is boldness, which does not describe yielding, and 'largess' is generosity with money or gifts, not negotiating skill. Blank (ii) is the historians' unflattering rereading of the same behavior, and 'given to yielding whenever pressed' defines it: 'docile'. 'Obdurate' is the opposite, and 'disingenuous' accuses him of dishonesty, which nothing in the sentence supports.",
+      "words_used": [
+        "acumen",
+        "temerity",
+        "largess",
+        "docile",
+        "obdurate",
+        "disingenuous"
+      ]
+    },
+    {
+      "id": "tc1-002",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "literature",
+      "stem": "The novelist's late style is often called ___(i)___, yet the label misleads: the sentences run long not because they are ornamented but because they refuse to stop qualifying themselves, each clause hedging the one before it.",
+      "blanks": [
+        {
+          "choices": [
+            "pithy",
+            "prosaic",
+            "lucid",
+            "laconic",
+            "florid"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon tells you why the label is wrong: the sentences are long but 'not because they are ornamented'. So the mistaken label must be one that means ornamented, and that is 'florid'. 'Laconic' and 'pithy' mean brief, which no one would say of long sentences. 'Prosaic' means dull and 'lucid' means clear; neither is corrected by the point about ornament.",
+      "words_used": [
+        "florid",
+        "laconic",
+        "prosaic",
+        "lucid",
+        "pithy",
+        "qualify",
+        "hedge"
+      ]
+    },
+    {
+      "id": "se-001",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "By the standards of the day the naturalist's notebooks were ___(i)___: every specimen was measured twice, every locality recorded to the yard, and every doubtful identification flagged for later review.",
+      "blanks": [
+        {
+          "choices": [
+            "meticulous",
+            "slapdash",
+            "copious",
+            "haphazard",
+            "erudite",
+            "painstaking"
+          ],
+          "answers": [
+            0,
+            5
+          ]
+        }
+      ],
+      "explanation": "The colon lists the evidence: double measurements, exact localities, flagged doubts. That is extreme care with detail, so 'meticulous' and 'painstaking' both fit and mean the same thing here. 'Slapdash' and 'haphazard' are a matched pair, but they mean careless, the opposite of the evidence. 'Copious' could describe notebooks in isolation but speaks to quantity, not care, and 'erudite' is about learning rather than method.",
+      "words_used": [
+        "meticulous",
+        "painstaking",
+        "slapdash",
+        "haphazard",
+        "copious",
+        "erudite"
+      ]
+    },
+    {
+      "id": "tc3-001",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Hume's account of causation is usually taken to be ___(i)___: since we observe only succession and never necessity, the very notion of a cause comes to seem ___(ii)___, a habit of mind projected onto the world. Yet Hume himself never ___(iii)___ causal talk; he asked only what warrant it has, and the answer he gave was custom rather than reason.",
+      "blanks": [
+        {
+          "choices": [
+            "abstruse",
+            "subversive",
+            "orthodox"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "empirical",
+            "inexorable",
+            "factitious"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "espoused",
+            "repudiated",
+            "obfuscated"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The colon after blank (i) explains a reading on which causation is undermined, so the account is taken to be 'subversive'; 'orthodox' is the reverse and 'abstruse' is about difficulty, which the colon does not address. Under that reading, a cause is a mental habit 'projected onto the world', that is, something we manufacture rather than find, which is 'factitious'. 'Empirical' is the trap: the sentence says observation supplies only succession, so cause is precisely what is not observed, and 'inexorable' picks up the word 'necessity' while reversing the point. The 'Yet' of the last sentence corrects the subversive reading: one would expect Hume to have rejected causal talk, but he did not, so 'repudiated'. 'Espoused' makes the 'Yet' incoherent, and 'obfuscated' introduces an accusation the sentence never makes.",
+      "words_used": [
+        "subversive",
+        "orthodox",
+        "abstruse",
+        "factitious",
+        "empirical",
+        "inexorable",
+        "repudiate",
+        "espouse",
+        "obfuscate"
+      ]
+    },
+    {
+      "id": "tc1-003",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The sculptor's admirers describe her refusal to sell to museums as principled, but the record suggests something more ___(i)___: she withheld work from exactly those institutions whose curators had once passed her over, and from no others.",
+      "blanks": [
+        {
+          "choices": [
+            "magnanimous",
+            "obdurate",
+            "capricious",
+            "pragmatic",
+            "vindictive"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon supplies the evidence: she punished precisely the museums that had rejected her, which is behavior driven by a desire for revenge, so 'vindictive'. 'Capricious' is tempting because it also denies principle, but the pattern described is systematic, not whimsical. 'Magnanimous' is the opposite of settling scores. 'Obdurate' fits the word 'refusal' but says only that she was stubborn, not why, and 'pragmatic' would require some practical benefit the sentence never mentions.",
+      "words_used": [
+        "vindictive",
+        "magnanimous",
+        "capricious",
+        "pragmatic",
+        "obdurate"
+      ]
+    },
+    {
+      "id": "se-002",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "Because the survey's respondents were recruited through a single professional association, its conclusions about the workforce as a whole rest on a ___(i)___ foundation, whatever the care with which the individual answers were tallied.",
+      "blanks": [
+        {
+          "choices": [
+            "robust",
+            "empirical",
+            "impregnable",
+            "tenuous",
+            "precarious",
+            "spurious"
+          ],
+          "answers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "explanation": "The 'Because' clause gives the problem: a narrow sample supporting broad conclusions, so the foundation is weak, and 'tenuous' and 'precarious' both say so. 'Robust' and 'impregnable' are a synonym pair with the opposite meaning. 'Spurious' overstates the case: the sentence says the basis is thin, not that the conclusions are false. 'Empirical' is true of any survey and does not respond to the 'Because' clause at all.",
+      "words_used": [
+        "tenuous",
+        "precarious",
+        "robust",
+        "impregnable",
+        "spurious",
+        "empirical"
+      ]
+    },
+    {
+      "id": "tc2-002",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "biography",
+      "stem": "Though colleagues remembered the chemist as ___(i)___ in the laboratory, unwilling to speak unless spoken to, his letters reveal a man of remarkable ___(ii)___, running to a dozen pages on the smallest domestic matter.",
+      "blanks": [
+        {
+          "choices": [
+            "taciturn",
+            "garrulous",
+            "irascible"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "candidness",
+            "sangfroid",
+            "volubility"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'Unwilling to speak unless spoken to' defines blank (i): 'taciturn'. 'Garrulous' is its opposite and 'irascible' is about temper, not talkativeness. 'Though' sets up a contrast with the letters, and 'a dozen pages on the smallest domestic matter' describes a flood of words, so blank (ii) is 'volubility'. 'Candidness' is about honesty, not quantity, and 'sangfroid' is composure, which the letters' length says nothing about.",
+      "words_used": [
+        "taciturn",
+        "garrulous",
+        "irascible",
+        "volubility",
+        "candidness",
+        "sangfroid"
+      ]
+    },
+    {
+      "id": "tc1-004",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "history",
+      "stem": "The edict has been read as evidence of the emperor's tolerance, but the reading is ___(i)___: the same document that permits the sect to worship also confines its members to three provinces and bars them from public office, protections that look less like generosity than like quarantine.",
+      "blanks": [
+        {
+          "choices": [
+            "facile",
+            "cogent",
+            "myopic",
+            "tendentious",
+            "apocryphal"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The colon shows what the tolerant reading missed: the edict's restrictions, which anyone reading past the first clause would notice. A reading that stops at the surface is 'facile'. 'Cogent' praises the reading the sentence is rejecting. 'Tendentious' would mean the reading pushes an agenda, but the sentence faults it for shallowness, not bias. 'Apocryphal' questions the document's authenticity, which is never at issue, and 'myopic' concerns the future rather than a misread text.",
+      "words_used": [
+        "facile",
+        "cogent",
+        "apocryphal",
+        "tendentious",
+        "myopic"
+      ]
+    },
+    {
+      "id": "se-003",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "Critics who call the memoir ___(i)___ mistake its subject for its manner: the events it recounts are harrowing, but the prose that carries them is spare, dry, and almost clinical in its refusal to plead for the reader's tears.",
+      "blanks": [
+        {
+          "choices": [
+            "maudlin",
+            "mawkish",
+            "laconic",
+            "terse",
+            "macabre",
+            "derivative"
+          ],
+          "answers": [
+            0,
+            1
+          ]
+        }
+      ],
+      "explanation": "The critics are wrong about the manner, and the manner is described as refusing 'to plead for the reader's tears'. So the mistaken label must mean tearfully sentimental, and 'maudlin' and 'mawkish' both do. 'Laconic' and 'terse' are a synonym pair that would actually be correct descriptions of spare prose, so a critic using them would not be making a mistake. 'Macabre' describes gruesome subject matter, not manner, and 'derivative' is a different complaint entirely.",
+      "words_used": [
+        "maudlin",
+        "mawkish",
+        "laconic",
+        "terse",
+        "macabre",
+        "derivative"
+      ]
+    },
+    {
+      "id": "tc1-005",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "art criticism",
+      "stem": "The exhibition's catalogue insists that the painter worked in isolation, yet the canvases themselves are ___(i)___, borrowing their palette from one contemporary and their compositions from another so openly that the debt is impossible to miss.",
+      "blanks": [
+        {
+          "choices": [
+            "ornate",
+            "aberrant",
+            "inimitable",
+            "pristine",
+            "derivative"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "'Yet' contrasts the catalogue's claim of isolation with what the paintings show, and the participial phrase spells it out: they borrow palette and composition from others. Work that leans that heavily on existing models is 'derivative'. 'Inimitable' is the reverse, and 'pristine' means untouched, which borrowed work is not. 'Aberrant' would make the paintings unusual rather than indebted, and 'ornate' describes decoration, which the sentence never mentions.",
+      "words_used": [
+        "derivative",
+        "inimitable",
+        "pristine",
+        "aberrant",
+        "ornate"
+      ]
+    },
+    {
+      "id": "se-004",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "Unlike the turbid estuary a mile downstream, the spring-fed pool is so ___(i)___ that biologists can count the snails on its floor from a bank ten feet above the surface.",
+      "blanks": [
+        {
+          "choices": [
+            "limpid",
+            "luminous",
+            "serene",
+            "placid",
+            "pellucid",
+            "viscous"
+          ],
+          "answers": [
+            0,
+            4
+          ]
+        }
+      ],
+      "explanation": "'Unlike the turbid estuary' and 'count the snails on its floor' both point to water you can see straight through, so 'pellucid' and 'limpid' are the pair. 'Placid' and 'serene' are synonyms of each other and plausible for a pool, but a calm surface is not the same as a transparent one, and calmness alone would not let you count snails. 'Viscous' describes thickness, not clarity. 'Luminous' means giving off light, which a pool does not do.",
+      "words_used": [
+        "pellucid",
+        "limpid",
+        "viscous",
+        "placid",
+        "serene",
+        "luminous"
+      ]
+    },
+    {
+      "id": "tc2-003",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The treaty's critics predicted that its terms would ___(i)___ the rivalry between the two ports rather than end it, and events bore them out: within a decade the ___(ii)___ over fishing rights had hardened into an open trade war.",
+      "blanks": [
+        {
+          "choices": [
+            "exacerbate",
+            "assuage",
+            "circumvent"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "rapprochement",
+            "contention",
+            "collusion"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "'Rather than end it' sets blank (i) against ending the rivalry, and 'events bore them out' followed by a trade war confirms that the prediction was of things getting worse: 'exacerbate'. 'Assuage' is the opposite, and 'circumvent' means to get around something, which is not a prediction about a rivalry's intensity. Blank (ii) names what 'hardened into an open trade war', so it must already be a dispute: 'contention'. 'Rapprochement' is a reconciliation, which would not harden into war, and 'collusion' is a secret agreement, not a quarrel.",
+      "words_used": [
+        "exacerbate",
+        "assuage",
+        "circumvent",
+        "contention",
+        "rapprochement",
+        "collusion"
+      ]
+    },
+    {
+      "id": "tc1-006",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Kant's admirers present the categorical imperative as a ___(i)___ principle, one whose authority owes nothing to the desires of the agent who applies it; but critics have long suspected that some desire, if only the wish to be consistent, must be smuggled in to explain why anyone should care to obey it.",
+      "blanks": [
+        {
+          "choices": [
+            "autonomous",
+            "provisional",
+            "inviolable",
+            "arbitrary",
+            "utilitarian"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The appositive after the blank defines it: a principle 'whose authority owes nothing to the desires of the agent' stands on its own, which is 'autonomous'. 'Inviolable' has the right philosophical weight but means not to be broken, and the sentence is about where authority comes from, not whether the rule may be breached. 'Utilitarian' ties a principle to consequences and desires, the reverse of the definition given. 'Arbitrary' and 'provisional' would both deny the principle any firm authority, which the admirers are precisely asserting.",
+      "words_used": [
+        "autonomous",
+        "provisional",
+        "inviolable",
+        "utilitarian",
+        "arbitrary"
+      ]
+    },
+    {
+      "id": "se-005",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "biography",
+      "stem": "Even after the prize made her famous, the physicist remained ___(i)___, turning every interviewer's question about her own contribution toward the students and technicians who had worked beside her.",
+      "blanks": [
+        {
+          "choices": [
+            "gregarious",
+            "haughty",
+            "self-effacing",
+            "affable",
+            "retiring",
+            "supercilious"
+          ],
+          "answers": [
+            2,
+            4
+          ]
+        }
+      ],
+      "explanation": "Turning questions about herself toward her colleagues is a refusal to take the spotlight, so the blank means shunning attention, and 'self-effacing' and 'retiring' both mean that. 'Haughty' and 'supercilious' form a synonym pair with the opposite sense: a haughty person would claim the credit. 'Gregarious' and 'affable' are also a pair, and they describe friendliness, which is pleasant but is not what deflecting credit shows.",
+      "words_used": [
+        "self-effacing",
+        "retiring",
+        "haughty",
+        "supercilious",
+        "gregarious",
+        "affable"
+      ]
+    },
+    {
+      "id": "tc3-002",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "Economists who once treated the informal sector as ___(i)___, a relic that development would soon sweep away, now concede that it is ___(ii)___ in many cities, employing a majority of workers and showing no sign of retreat. The shift has forced a reckoning: policies designed to ___(iii)___ street vending have increasingly given way to schemes that license and tax it.",
+      "blanks": [
+        {
+          "choices": [
+            "entrenched",
+            "nascent",
+            "moribund"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "negligible",
+            "volatile",
+            "entrenched"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "circumscribe",
+            "eradicate",
+            "sanction"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The appositive 'a relic that development would soon sweep away' defines blank (i) as something dying out: 'moribund'. 'Nascent' is the reverse, and 'entrenched' is what the economists now believe, not what they once believed. Blank (ii) is what they 'concede' instead, and 'employing a majority of workers and showing no sign of retreat' describes something firmly established: 'entrenched'. 'Negligible' contradicts the majority figure, and 'volatile' says nothing about permanence. Blank (iii) names the old policy that the licensing schemes replaced; since the old view expected the sector to vanish, the old policy aimed to wipe vending out, so 'eradicate'. 'Sanction' would mean the old policy already permitted vending, leaving nothing for the licensing to replace, and 'circumscribe' is too mild to contrast with schemes that regulate.",
+      "words_used": [
+        "moribund",
+        "nascent",
+        "entrenched",
+        "volatile",
+        "negligible",
+        "eradicate",
+        "sanction",
+        "circumscribe",
+        "concede"
+      ]
+    },
+    {
+      "id": "tc1-007",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "literature",
+      "stem": "The poet's reputation as a ___(i)___ writer rests on a handful of anthologized lyrics; anyone who reads the collected works discovers a poet who could not leave a stanza alone, appending glosses, footnotes, and alternative endings until the slim poems disappear under their own apparatus.",
+      "blanks": [
+        {
+          "choices": [
+            "verbose",
+            "prolific",
+            "sentimental",
+            "discursive",
+            "succinct"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The semicolon introduces a reversal: the reputation is built on a few short lyrics, but the full works reveal endless additions. So the reputation must be for brevity, and 'succinct' fits. 'Verbose' and 'discursive' describe what the collected works actually are, not the reputation the sentence is correcting. 'Prolific' concerns output, and a reputation resting on 'a handful' of poems is the opposite of that. 'Sentimental' is a plausible thing to say of a poet but has nothing to do with the contrast about length.",
+      "words_used": [
+        "succinct",
+        "verbose",
+        "prolific",
+        "discursive",
+        "sentimental"
+      ]
+    },
+    {
+      "id": "tc2-004",
+      "type": "tc2",
+      "difficulty": "hard",
+      "topic": "natural science",
+      "stem": "The hypothesis was not so much ___(i)___ as abandoned: no experiment ever contradicted it, but the phenomena it had been invented to explain were gradually ___(ii)___ under a rival theory that also accounted for much else, and the older idea simply stopped being cited.",
+      "blanks": [
+        {
+          "choices": [
+            "corroborated",
+            "promulgated",
+            "refuted"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "attenuated",
+            "extrapolated",
+            "subsumed"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'No experiment ever contradicted it' tells you what did not happen to the hypothesis, and 'not so much X as abandoned' requires X to be the stronger fate it escaped: being disproved, so 'refuted'. 'Corroborated' would make the sentence say it was abandoned instead of being confirmed, which the 'but' clause does not explain, and 'promulgated' is about announcing, not testing. Blank (ii) describes what the rival theory did to the phenomena: it took them over and explained them along with 'much else', which is to 'subsume' them. 'Extrapolated' is a scientific-sounding word with the wrong sense, since one extrapolates from data, not phenomena under a theory. 'Attenuated' would mean the phenomena themselves weakened, which is not the point.",
+      "words_used": [
+        "refute",
+        "corroborate",
+        "promulgate",
+        "subsume",
+        "extrapolate",
+        "attenuate"
+      ]
+    },
+    {
+      "id": "se-006",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "Court chroniclers, paid by the crown, describe the king's temper as merely firm; ambassadors writing home in cipher were free to be blunter, and their dispatches call him ___(i)___, a man who could not be argued out of a decision once he had announced it.",
+      "blanks": [
+        {
+          "choices": [
+            "dictatorial",
+            "obstinate",
+            "tractable",
+            "amenable",
+            "intransigent",
+            "irascible"
+          ],
+          "answers": [
+            1,
+            4
+          ]
+        }
+      ],
+      "explanation": "The appositive 'a man who could not be argued out of a decision' defines the blank as unyielding, and 'intransigent' and 'obstinate' both mean that. 'Tractable' and 'amenable' are a synonym pair meaning the opposite: easily persuaded. 'Irascible' picks up the word 'temper' but means quick to anger, which is not the same as refusing to change course. 'Dictatorial' is a natural word for a king, but it describes demanding obedience from others rather than being immovable oneself.",
+      "words_used": [
+        "intransigent",
+        "obstinate",
+        "tractable",
+        "amenable",
+        "irascible",
+        "dictatorial"
+      ]
+    },
+    {
+      "id": "tc1-008",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "art criticism",
+      "stem": "For a critic who insisted that other writers be ___(i)___, he was strangely indulgent toward his own prose, which wandered from the painting under review to his childhood, his digestion, and the weather before returning, if it returned at all.",
+      "blanks": [
+        {
+          "choices": [
+            "candid",
+            "ornate",
+            "erudite",
+            "pithy",
+            "discursive"
+          ],
+          "answer": 3
+        }
+      ],
+      "explanation": "'For a critic who insisted' on one quality, he 'was strangely indulgent' about its absence in himself, and the absence is described: prose that wanders off the subject. So the quality he demanded was brevity and focus, 'pithy'. 'Discursive' is what his own prose is, the opposite of what he demanded. 'Ornate' would set up a contrast about decoration, not about wandering. 'Candid' and 'erudite' are things a critic might well demand, but neither is contradicted by digressive prose.",
+      "words_used": [
+        "pithy",
+        "candid",
+        "erudite",
+        "discursive",
+        "ornate"
+      ]
+    },
+    {
+      "id": "tc1-009",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Biographers have struggled to reconcile the general's ___(i)___ on the battlefield, where he twice rode alone under fire to steady a wavering line, with the panic that seized him before every dinner party, at which he would sit mute and sweating until he could decently escape.",
+      "blanks": [
+        {
+          "choices": [
+            "apprehension",
+            "sangfroid",
+            "probity",
+            "truculence",
+            "hubris"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The blank names the battlefield quality that biographers cannot square 'with the panic' of the dinner table, and the relative clause shows it: riding calmly under fire. Composure under danger is 'sangfroid'. 'Apprehension' is the dinner-party feeling, not its opposite. 'Truculence' has a martial ring but means aggressiveness, which steadying a line does not require. 'Hubris' is pride and 'probity' is integrity; neither contrasts with panic.",
+      "words_used": [
+        "sangfroid",
+        "hubris",
+        "apprehension",
+        "probity",
+        "truculence",
+        "reconcile"
+      ]
+    },
+    {
+      "id": "se-007",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "natural science",
+      "stem": "The paper's authors ___(i)___ their central claim so thoroughly, surrounding it with conditions, exceptions, and calls for further study, that reviewers found it hard to say what, if anything, the data were being said to show.",
+      "blanks": [
+        {
+          "choices": [
+            "retracted",
+            "buttressed",
+            "bolstered",
+            "embellished",
+            "hedged",
+            "qualified"
+          ],
+          "answers": [
+            4,
+            5
+          ]
+        }
+      ],
+      "explanation": "The participial phrase describes the action: surrounding a claim with conditions and exceptions is limiting it, and 'qualified' and 'hedged' both mean that. 'Buttressed' and 'bolstered' are a synonym pair, but strengthening a claim would make it clearer, not harder to pin down. 'Retracted' goes too far: the authors still made the claim, they just fenced it in. 'Embellished' means to decorate, which is not what conditions and exceptions do.",
+      "words_used": [
+        "qualify",
+        "hedge",
+        "buttress",
+        "bolster",
+        "embellish",
+        "retract"
+      ]
+    },
+    {
+      "id": "tc2-005",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "philosophy",
+      "stem": "Because the dialogue presents each position through a speaker who genuinely believes it, readers have found the author's own view ___(i)___; the work may be deliberately ___(ii)___, a demonstration that the question admits of no settled answer.",
+      "blanks": [
+        {
+          "choices": [
+            "elusive",
+            "untenable",
+            "patent"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "esoteric",
+            "didactic",
+            "equivocal"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The 'Because' clause explains blank (i): if every speaker is sincere, nothing marks out the author's position, so it is 'elusive'. 'Patent' is the opposite, and 'untenable' would mean the view is indefensible rather than hard to locate. Blank (ii) is defined by the appositive 'a demonstration that the question admits of no settled answer', so the work is 'equivocal'. 'Didactic' would mean the work is teaching a lesson, which contradicts having no settled answer, and 'esoteric' is about who can understand it, not whether it takes a side.",
+      "words_used": [
+        "elusive",
+        "patent",
+        "untenable",
+        "equivocal",
+        "didactic",
+        "esoteric"
+      ]
+    },
+    {
+      "id": "tc1-010",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "Proponents of the reform argued that a modest fine would ___(i)___ littering, but the data told a different story: once residents could pay to dispose of their guilt, dumping increased, as if the penalty had converted a moral transgression into a purchasable service.",
+      "blanks": [
+        {
+          "choices": [
+            "expiate",
+            "exacerbate",
+            "deter",
+            "sanction",
+            "preclude"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'But the data told a different story' followed by 'dumping increased' means the proponents predicted the opposite: that the fine would discourage littering, so 'deter'. 'Exacerbate' is what actually happened, not what was argued. 'Preclude' is too strong; a modest fine cannot make littering impossible. 'Sanction' would mean the fine permits littering, which is the ironic outcome, not the proponents' argument, and 'expiate' picks up the word 'guilt' but means to atone, which a policy does not do to a behavior.",
+      "words_used": [
+        "deter",
+        "sanction",
+        "exacerbate",
+        "preclude",
+        "expiate",
+        "transgression",
+        "proponent"
+      ]
+    },
+    {
+      "id": "tc3-003",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "The translator's preface is ___(i)___ about her method, conceding that she has cut repetitions, modernized idioms, and occasionally invented a line where the original was corrupt. Purists have ___(ii)___ these liberties, yet the result reads as a poem rather than a crib, and readers who would never have finished a literal version have ___(iii)___ this one.",
+      "blanks": [
+        {
+          "choices": [
+            "candid",
+            "sanctimonious",
+            "reticent"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "brooked",
+            "emulated",
+            "decried"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "spurned",
+            "expurgated",
+            "savored"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'Conceding that she has cut' and 'invented' is an open admission, so the preface is 'candid'; 'reticent' is the opposite and 'sanctimonious' would describe a moralizing tone the concessions do not show. The word 'liberties' is a purist's complaint, and the 'yet' that follows contrasts their reaction with the work's success, so they 'decried' the changes. 'Brooked' would mean they tolerated them, leaving nothing for 'yet' to reverse, and 'emulated' makes no sense of a complaint. Blank (iii) completes the case for the translation: readers who would have given up on a literal version instead 'savored' this one. 'Spurned' undoes the contrast, and 'expurgated' borrows the idea of cutting from the first sentence but is something a translator does, not a reader.",
+      "words_used": [
+        "candid",
+        "reticent",
+        "sanctimonious",
+        "decry",
+        "brook",
+        "emulate",
+        "savor",
+        "spurn",
+        "expurgate",
+        "concede"
+      ]
+    },
+    {
+      "id": "se-008",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "history",
+      "stem": "The abbey's chronicle records the harvest of that year as so ___(i)___ that the tithe barns had to be enlarged twice before the grain was in, and the monks fed the surrounding villages through the whole of the following winter.",
+      "blanks": [
+        {
+          "choices": [
+            "copious",
+            "fortuitous",
+            "profuse",
+            "wanting",
+            "scant",
+            "salubrious"
+          ],
+          "answers": [
+            0,
+            2
+          ]
+        }
+      ],
+      "explanation": "Barns enlarged twice and villages fed all winter are the results of an enormous harvest, so the blank means abundant, and 'copious' and 'profuse' both deliver that. 'Scant' and 'wanting' are a matched pair with the opposite meaning. 'Fortuitous' has the right cheerful tone but says the harvest was lucky, not large. 'Salubrious' means healthful, which describes neither size nor consequence.",
+      "words_used": [
+        "copious",
+        "profuse",
+        "scant",
+        "wanting",
+        "fortuitous",
+        "salubrious"
+      ]
+    },
+    {
+      "id": "tc2-006",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The catalogue essay praises the collector as ___(i)___, yet the collection tells a different story: every purchase falls within a single decade of a single school, and the few pieces from outside it were, the records show, gifts he never chose. Whatever its quality, the collection is ___(ii)___ in range.",
+      "blanks": [
+        {
+          "choices": [
+            "fastidious",
+            "eclectic",
+            "parochial"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "circumscribed",
+            "pedestrian",
+            "catholic"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "'Yet the collection tells a different story' means the essay's praise is contradicted by the collection's narrowness, so the praise must have claimed breadth: 'eclectic'. 'Parochial' is what the collection actually is, not what the essay says, and 'fastidious' is not contradicted by a narrow range. Blank (ii) states what the evidence shows about range: one decade, one school, so 'circumscribed'. 'Catholic' would repeat the essay's mistaken praise, and 'pedestrian' judges imagination rather than range.",
+      "words_used": [
+        "eclectic",
+        "fastidious",
+        "parochial",
+        "circumscribe",
+        "catholic",
+        "pedestrian"
+      ]
+    },
+    {
+      "id": "tc1-011",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "natural science",
+      "stem": "Because the fossil record of soft-bodied animals is so ___(i)___, paleontologists have learned to treat a single well-preserved specimen as a windfall rather than a sample, and to resist drawing conclusions about abundance from what may be an accident of burial.",
+      "blanks": [
+        {
+          "choices": [
+            "replete",
+            "pristine",
+            "equivocal",
+            "anomalous",
+            "scant"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The 'Because' clause explains why one specimen counts as a windfall and why abundance cannot be inferred: there is very little to go on. That is a 'scant' record. 'Replete' is the reverse. 'Equivocal' is tempting because an ambiguous record would also frustrate conclusions, but a windfall is a response to scarcity, not to ambiguity. 'Pristine' fits the phrase 'well-preserved' but describes the specimen, not the record as a whole, and 'anomalous' would make the record abnormal rather than thin.",
+      "words_used": [
+        "scant",
+        "replete",
+        "equivocal",
+        "anomalous",
+        "pristine"
+      ]
+    },
+    {
+      "id": "se-009",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Friends who knew the composer only from his letters, which are warm, self-mocking, and endlessly curious about other people's work, were startled to find him so ___(i)___ in person that he seemed unwilling to spare a syllable.",
+      "blanks": [
+        {
+          "choices": [
+            "terse",
+            "reticent",
+            "loquacious",
+            "voluble",
+            "phlegmatic",
+            "cerebral"
+          ],
+          "answers": [
+            0,
+            1
+          ]
+        }
+      ],
+      "explanation": "'Unwilling to spare a syllable' defines the blank: he barely spoke, and 'reticent' and 'terse' both describe that. 'Voluble' and 'loquacious' are a synonym pair meaning the opposite, and would describe the letters rather than the man. 'Phlegmatic' fits the contrast with warm letters in tone but concerns emotion, not speech. 'Cerebral' says he was intellectual, which the sentence never addresses.",
+      "words_used": [
+        "reticent",
+        "terse",
+        "voluble",
+        "loquacious",
+        "phlegmatic",
+        "cerebral"
+      ]
+    },
+    {
+      "id": "tc1-012",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "social science",
+      "stem": "The committee's report was praised as ___(i)___ because it weighed the evidence on both sides and declined to endorse either faction's preferred remedy; the same neutrality, however, left the mayor with no clear recommendation to act on.",
+      "blanks": [
+        {
+          "choices": [
+            "cogent",
+            "evenhanded",
+            "tendentious",
+            "partisan",
+            "pragmatic"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The 'because' clause defines the blank: weighing both sides and endorsing neither is fairness, and 'the same neutrality' in the second clause confirms it, so 'evenhanded'. 'Partisan' and 'tendentious' both mean the opposite, taking a side. 'Cogent' praises a report's reasoning, not its neutrality. 'Pragmatic' is contradicted by the ending, since a report that gives the mayor nothing to act on is hardly practical.",
+      "words_used": [
+        "evenhanded",
+        "partisan",
+        "cogent",
+        "pragmatic",
+        "tendentious"
+      ]
+    },
+    {
+      "id": "tc1-013",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "literature",
+      "stem": "The preface itself calls the biography ___(i)___, and the charge is fair: no failing of its subject goes unexcused, no enemy of his goes unmocked, and the final chapter reads less like an assessment than like a eulogy delivered by a devoted heir.",
+      "blanks": [
+        {
+          "choices": [
+            "dispassionate",
+            "turgid",
+            "apocryphal",
+            "hagiographic",
+            "derogative"
+          ],
+          "answer": 3
+        }
+      ],
+      "explanation": "The colon gives the evidence for the 'charge': every failing excused, every enemy mocked, a eulogy-like ending. A biography that treats its subject as a saint is 'hagiographic'. 'Dispassionate' is the reverse, and 'derogative' would make the book hostile to its subject rather than adoring. 'Turgid' criticizes the prose style, not the bias, and 'apocryphal' questions whether the book is genuine, which is never in doubt.",
+      "words_used": [
+        "hagiographic",
+        "dispassionate",
+        "turgid",
+        "apocryphal",
+        "derogative",
+        "eulogy"
+      ]
+    },
+    {
+      "id": "se-010",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The chancellor's address to the assembly was remembered afterward as a ___(i)___: for nearly two hours he denounced his opponents by name, imputed to them every reverse the state had suffered, and paused only to demand their arrest.",
+      "blanks": [
+        {
+          "choices": [
+            "exegesis",
+            "panegyric",
+            "tirade",
+            "diatribe",
+            "recapitulation",
+            "encomium"
+          ],
+          "answers": [
+            2,
+            3
+          ]
+        }
+      ],
+      "explanation": "The colon describes the speech: two hours of denunciation, blame, and demands for arrest. That is a sustained verbal attack, and 'diatribe' and 'tirade' both name one. 'Panegyric' and 'encomium' are a synonym pair, but they are speeches of praise, the opposite of what is described. 'Exegesis' is a scholarly explanation of a text, and 'recapitulation' is a summary; neither denounces anyone.",
+      "words_used": [
+        "diatribe",
+        "tirade",
+        "panegyric",
+        "encomium",
+        "exegesis",
+        "recapitulation",
+        "impute"
+      ]
+    },
+    {
+      "id": "tc2-007",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "Because the compound breaks down within minutes of exposure to sunlight, its effects in the wild are ___(i)___, and field biologists who arrive even an hour after a spill may find no trace of it; in sealed laboratory vessels, by contrast, the same molecule proves remarkably ___(ii)___, persisting unchanged for months.",
+      "blanks": [
+        {
+          "choices": [
+            "evanescent",
+            "pervasive",
+            "deleterious"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "robust",
+            "volatile",
+            "viscous"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The 'Because' clause says the compound breaks down in minutes and the next clause says no trace remains after an hour, so its effects vanish quickly: 'evanescent'. 'Pervasive' says the effects spread everywhere, which contradicts finding no trace, and 'deleterious' describes harm, which the sentence never mentions. 'By contrast' flips the picture for blank (ii), and 'persisting unchanged for months' defines it: the molecule is 'robust'. 'Volatile' means the opposite, quick to change, and 'viscous' is about thickness, not stability.",
+      "words_used": [
+        "evanescent",
+        "pervasive",
+        "deleterious",
+        "robust",
+        "volatile",
+        "viscous"
+      ]
+    },
+    {
+      "id": "tc1-014",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Nietzsche's aphorisms invite the charge of being ___(i)___, since a writer who never argues at length can never be pinned to a position; yet the charge misfires, for the fragments cohere into a small number of relentlessly repeated themes, and a reader who follows them finds not evasion but insistence.",
+      "blanks": [
+        {
+          "choices": [
+            "evasive",
+            "dogmatic",
+            "facetious",
+            "verbose",
+            "abstruse"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The 'since' clause explains the charge: a writer who cannot be pinned down looks as if he is dodging, and the final phrase names the charge outright as 'evasion', so 'evasive'. 'Dogmatic' is closer to what the sentence finally says he is, not what he is accused of. 'Verbose' contradicts 'never argues at length'. 'Abstruse' would make the complaint about difficulty and 'facetious' about tone, but the 'since' clause is about commitment to a position.",
+      "words_used": [
+        "evasive",
+        "dogmatic",
+        "abstruse",
+        "facetious",
+        "verbose",
+        "aphorism"
+      ]
+    },
+    {
+      "id": "tc3-004",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Her early patrons remembered her as ___(i)___ almost to a fault, thanking them for trifles in letters that ran to several pages; her later correspondence is ___(ii)___ by comparison, a line or two of business and nothing more. Biographers still dispute whether success made her ___(iii)___ or merely busy.",
+      "blanks": [
+        {
+          "choices": [
+            "deferential",
+            "diligent",
+            "imperious"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "perfunctory",
+            "florid",
+            "acerbic"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "obliging",
+            "haughty",
+            "affluent"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "Thanking patrons for trifles at length is excessive respect, so blank (i) is 'deferential'; 'imperious' is the opposite and 'diligent' is not a fault. 'By comparison' and 'a line or two of business' make the later letters brief and dutiful, so 'perfunctory'. 'Florid' would make them ornate, the reverse of a line or two, and 'acerbic' would make them hostile, which nothing supports. Blank (iii) offers the unflattering explanation for the change that 'merely busy' is the charitable alternative to: success went to her head, so 'haughty'. 'Obliging' describes her early manner, not a change, and 'affluent' picks up 'success' but does not explain shorter letters.",
+      "words_used": [
+        "deferential",
+        "imperious",
+        "diligent",
+        "perfunctory",
+        "florid",
+        "acerbic",
+        "haughty",
+        "obliging",
+        "affluent"
+      ]
+    },
+    {
+      "id": "se-011",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "art criticism",
+      "stem": "The retrospective makes clear how ___(i)___ the sculptor's development was: the bronzes of 1950 could stand beside those of 1980 without anyone guessing that thirty years lie between them, and the few departures she attempted were quickly abandoned.",
+      "blanks": [
+        {
+          "choices": [
+            "slight",
+            "negligible",
+            "meteoric",
+            "eclectic",
+            "precipitous",
+            "protean"
+          ],
+          "answers": [
+            0,
+            1
+          ]
+        }
+      ],
+      "explanation": "The colon gives the evidence: work from three decades apart is indistinguishable, and experiments were dropped. So the development was tiny, and 'negligible' and 'slight' both say so. 'Meteoric' and 'precipitous' are a synonym pair describing rapid change, the opposite of what the bronzes show. 'Protean' means constantly changing form, again the reverse. 'Eclectic' would mean she mixed many styles, which contradicts thirty years of one look.",
+      "words_used": [
+        "negligible",
+        "slight",
+        "meteoric",
+        "precipitous",
+        "protean",
+        "eclectic"
+      ]
+    },
+    {
+      "id": "tc2-008",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "social science",
+      "stem": "Advocates of the program are quick to ___(i)___ its early successes, but they rarely mention that participation was voluntary, so that the first cohort consisted of exactly the motivated families most likely to have thrived without help; the gains, in other words, may be ___(ii)___ rather than real.",
+      "blanks": [
+        {
+          "choices": [
+            "extrapolate",
+            "tout",
+            "disparage"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "spurious",
+            "inadvertent",
+            "appreciable"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "'Advocates' promote a program, and 'but they rarely mention' contrasts what they say loudly with what they leave out, so blank (i) is 'tout'. 'Disparage' is what opponents do, and 'extrapolate' is a statistical operation, not a way of talking up results. Blank (ii) is set against 'real' by 'rather than', and the preceding clause explains why the gains might not be genuine: the sample was self-selected. So 'spurious'. 'Appreciable' would make the gains large, not doubtful, and 'inadvertent' says they were accidental, which is a different claim from their being illusory.",
+      "words_used": [
+        "tout",
+        "disparage",
+        "extrapolate",
+        "spurious",
+        "appreciable",
+        "inadvertent",
+        "advocate"
+      ]
+    },
+    {
+      "id": "tc1-015",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "Geologists once described the range as ___(i)___, a finished structure whose only remaining future was erosion; satellite measurements now show the peaks rising several millimeters a year, faster than the rivers can wear them down.",
+      "blanks": [
+        {
+          "choices": [
+            "colossal",
+            "immutable",
+            "quiescent",
+            "precipitous",
+            "nascent"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The appositive 'a finished structure whose only remaining future was erosion' defines the old view: the range had stopped growing, so 'quiescent'. The semicolon then introduces the correction, rising peaks. 'Nascent' is the opposite of finished. 'Immutable' is tempting but goes too far: the geologists expected erosion, which is change. 'Colossal' and 'precipitous' are natural words for mountains, but neither says anything about whether the range is still building.",
+      "words_used": [
+        "quiescent",
+        "nascent",
+        "colossal",
+        "immutable",
+        "precipitous"
+      ]
+    },
+    {
+      "id": "se-012",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "literature",
+      "stem": "The novel's villain is drawn without a single redeeming trait: he is ___(i)___ toward his patron, whom he robs while professing devotion, and toward his accomplices, whom he betrays the moment a reward is offered.",
+      "blanks": [
+        {
+          "choices": [
+            "staunch",
+            "steadfast",
+            "deferential",
+            "perfidious",
+            "obsequious",
+            "treacherous"
+          ],
+          "answers": [
+            3,
+            5
+          ]
+        }
+      ],
+      "explanation": "The relative clauses describe robbery under a show of devotion and betrayal for a reward, which is disloyalty in both directions, so 'perfidious' and 'treacherous' fit and mean the same thing. 'Staunch' and 'steadfast' are a synonym pair for loyalty, the reverse of what he does. 'Obsequious' and 'deferential' fit the phrase 'professing devotion' to a patron, but they describe his pose, not the betrayal that defines him, and they make no sense toward accomplices.",
+      "words_used": [
+        "perfidious",
+        "treacherous",
+        "staunch",
+        "steadfast",
+        "obsequious",
+        "deferential",
+        "betray"
+      ]
+    },
+    {
+      "id": "tc1-016",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The senator's biographers tend to ___(i)___ his role in the compromise, crediting him with a settlement that the archival record shows was drafted largely by a junior colleague and carried through the chamber by others while he lay absent with fever.",
+      "blanks": [
+        {
+          "choices": [
+            "belittle",
+            "delineate",
+            "aggrandize",
+            "corroborate",
+            "impugn"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The participial phrase explains the blank: the biographers credit him with work the record assigns to others, so they inflate his part, which is to 'aggrandize' it. 'Belittle' and 'impugn' run the other way, shrinking or attacking his role. 'Delineate' is neutral description, but crediting him with others' work is not description. 'Corroborate' would mean the biographers confirm his role, yet the record contradicts them.",
+      "words_used": [
+        "aggrandize",
+        "belittle",
+        "impugn",
+        "delineate",
+        "corroborate"
+      ]
+    },
+    {
+      "id": "tc1-017",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "The commission found no ___(i)___ in the awarding of the contracts, yet it noted that every successful bidder had employed the minister's former chief of staff as a consultant, a pattern it declined to call corruption while plainly inviting readers to draw their own conclusion.",
+      "blanks": [
+        {
+          "choices": [
+            "largess",
+            "malfeasance",
+            "probity",
+            "acrimony",
+            "anomaly"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "'Yet' contrasts the official finding with the suspicious pattern, and the pattern is something the commission 'declined to call corruption'. So the thing it officially did not find is official wrongdoing: 'malfeasance'. 'Probity' is the reverse, and a commission does not go looking for integrity. 'Anomaly' fails because the commission did find something irregular, the pattern itself. 'Largess' has the right whiff of money changing hands but means generosity, and 'acrimony' is bitterness, which is not what a contracts inquiry investigates.",
+      "words_used": [
+        "malfeasance",
+        "probity",
+        "largess",
+        "anomaly",
+        "acrimony"
+      ]
+    },
+    {
+      "id": "se-013",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Stoic teachers held that the sage remains ___(i)___ even at the death of a child, not because he feels nothing but because he has trained himself to regard every external loss as lying outside the circle of what truly matters.",
+      "blanks": [
+        {
+          "choices": [
+            "stolid",
+            "imperturbable",
+            "unflappable",
+            "ascetic",
+            "sanguine",
+            "phlegmatic"
+          ],
+          "answers": [
+            1,
+            2
+          ]
+        }
+      ],
+      "explanation": "The blank describes the sage's composure at a terrible loss, and 'imperturbable' and 'unflappable' both mean not able to be shaken. 'Stolid' and 'phlegmatic' form a synonym pair and look right, but the sentence explicitly rules them out with 'not because he feels nothing': those words describe a lack of feeling, whereas the sage feels and stays calm anyway. 'Sanguine' means optimistic, which a bereaved parent is not. 'Ascetic' fits the Stoic setting but describes self-denial, not composure.",
+      "words_used": [
+        "imperturbable",
+        "unflappable",
+        "stolid",
+        "phlegmatic",
+        "sanguine",
+        "ascetic"
+      ]
+    },
+    {
+      "id": "tc2-009",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "The moth's resemblance to a wasp is so ___(i)___ that even experienced collectors have been fooled at a distance; the disguise ___(ii)___ predators that have learned, at the cost of a sting, to leave the real thing alone.",
+      "blanks": [
+        {
+          "choices": [
+            "uncanny",
+            "tenuous",
+            "conspicuous"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "dupes",
+            "galvanizes",
+            "placates"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "'So ___ that even experienced collectors have been fooled' requires a resemblance beyond the ordinary: 'uncanny'. 'Tenuous' would mean the resemblance is weak, which would fool no one, and 'conspicuous' only says it is noticeable, not convincing. The disguise then does to predators what it did to collectors: it fools them, so 'dupes'. 'Galvanizes' would stir predators to action, the reverse of leaving the moth alone, and 'placates' means to calm an angry party, which is not what a disguise does.",
+      "words_used": [
+        "uncanny",
+        "tenuous",
+        "conspicuous",
+        "dupe",
+        "galvanize",
+        "placate"
+      ]
+    },
+    {
+      "id": "tc1-018",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "Readers who prize the novel for its ___(i)___ are answering to something real: the plot turns on coincidences no court would credit, yet each is prepared so carefully, and arrives so exactly when the characters' fears predict it, that the improbable comes to feel like the only thing that could have happened.",
+      "blanks": [
+        {
+          "choices": [
+            "serendipity",
+            "hyperbole",
+            "verisimilitude",
+            "artifice",
+            "denouement"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon explains what is 'real' about the praise: improbable events end up feeling inevitable, which is the appearance of truth, 'verisimilitude'. 'Artifice' is the closest trap, since the coincidences are indeed carefully engineered, but the sentence says readers respond to the feeling of truth, not to the visible machinery. 'Serendipity' fits the word 'coincidences' but names the events, not the quality readers prize. 'Denouement' is a part of a plot, not a virtue of it, and 'hyperbole' is exaggeration, which is the opposite of what makes the improbable feel true.",
+      "words_used": [
+        "verisimilitude",
+        "artifice",
+        "serendipity",
+        "denouement",
+        "hyperbole"
+      ]
+    },
+    {
+      "id": "tc3-005",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "history",
+      "stem": "The reformers' program was ___(i)___ in conception, proposing to abolish the guilds outright, yet ___(ii)___ in execution: each decree was fenced with exemptions, delays, and appeals, so that a decade later most guilds survived in all but name. Whether the gap reflects a failure of nerve or a deliberate ___(iii)___, a way of appearing bold while changing little, remains disputed.",
+      "blanks": [
+        {
+          "choices": [
+            "iconoclastic",
+            "orthodox",
+            "byzantine"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "peremptory",
+            "sedulous",
+            "timorous"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "reprisal",
+            "dispensation",
+            "subterfuge"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'Proposing to abolish the guilds outright' is an attack on an established institution, so the conception was 'iconoclastic'; 'orthodox' is the opposite, and 'byzantine' describes complexity, which belongs to the execution rather than the idea. 'Yet' turns to the execution, and 'a failure of nerve' in the next sentence names the quality: 'timorous'. 'Peremptory' would make the execution as bold as the idea, leaving no gap, and 'sedulous' means diligent, which fenced-in decrees are not. Blank (iii) is defined by its appositive, 'a way of appearing bold while changing little', a deliberate deception, so 'subterfuge'. 'Dispensation' echoes the exemptions but is a single exception, not a strategy, and 'reprisal' is retaliation, which nothing in the passage involves.",
+      "words_used": [
+        "iconoclastic",
+        "orthodox",
+        "byzantine",
+        "timorous",
+        "sedulous",
+        "peremptory",
+        "subterfuge",
+        "dispensation",
+        "reprisal"
+      ]
+    },
+    {
+      "id": "se-014",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "biography",
+      "stem": "Though he inherited one of the largest fortunes in the county, the philanthropist was so ___(i)___ in his habits that visitors mistook him for his own steward, and he was known to darn his socks rather than buy new ones.",
+      "blanks": [
+        {
+          "choices": [
+            "profligate",
+            "affluent",
+            "frugal",
+            "munificent",
+            "prodigal",
+            "thrifty"
+          ],
+          "answers": [
+            2,
+            5
+          ]
+        }
+      ],
+      "explanation": "'Though' contrasts his fortune with his habits, and the habits are described: dressing like a servant, darning socks. That is careful spending, so 'frugal' and 'thrifty'. 'Profligate' and 'prodigal' are a synonym pair meaning wasteful, the reverse of sock-darning. 'Munificent' fits a philanthropist but describes giving, not personal habits. 'Affluent' restates the fortune and makes the 'Though' meaningless.",
+      "words_used": [
+        "frugal",
+        "thrifty",
+        "profligate",
+        "prodigal",
+        "munificent",
+        "affluent"
+      ]
+    },
+    {
+      "id": "tc2-010",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The critic's early reviews were ___(i)___, dismissing a whole generation of painters in a sentence apiece; age did not soften his judgments so much as lengthen them, and the late essays reach the same verdicts by a ___(ii)___ route, arriving at contempt after forty pages instead of four lines.",
+      "blanks": [
+        {
+          "choices": [
+            "circumspect",
+            "peremptory",
+            "magnanimous"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "expedient",
+            "tortuous",
+            "pedestrian"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "'Dismissing a whole generation of painters in a sentence apiece' describes verdicts handed down without argument or appeal: 'peremptory'. 'Circumspect' would mean cautious, which one-sentence dismissals are not, and 'magnanimous' is contradicted by 'contempt'. The second clause says age 'lengthened' his judgments to forty pages, so the route to the same verdicts is winding: 'tortuous'. 'Expedient' means convenient, the opposite of forty pages, and 'pedestrian' would criticize the essays as dull, which is not the point being made about their length.",
+      "words_used": [
+        "peremptory",
+        "magnanimous",
+        "circumspect",
+        "tortuous",
+        "expedient",
+        "pedestrian"
+      ]
+    },
+    {
+      "id": "tc1-019",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "Because the two lizard populations have been separated by the strait for fewer than a thousand generations, the differences between them are still ___(i)___: a slightly longer tail here, a paler throat there, nothing yet that would prevent interbreeding if the sea withdrew.",
+      "blanks": [
+        {
+          "choices": [
+            "aberrant",
+            "conspicuous",
+            "entrenched",
+            "inherent",
+            "incipient"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The 'Because' clause stresses how short the separation has been, and the colon lists tiny, early differences with 'nothing yet' decisive. Differences just beginning to appear are 'incipient'. 'Entrenched' and 'conspicuous' both say the differences are well developed, which contradicts 'slightly' and 'nothing yet'. 'Inherent' means built into the animals' nature, which is not what a short separation produces. 'Aberrant' would make the differences abnormal rather than early.",
+      "words_used": [
+        "incipient",
+        "entrenched",
+        "inherent",
+        "conspicuous",
+        "aberrant",
+        "slight"
+      ]
+    },
+    {
+      "id": "se-015",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "Early sociologists treated the city as ___(i)___ to community, assuming that dense, anonymous streets must dissolve the bonds that villages sustained; later fieldwork found neighborhoods within the metropolis as tightly knit as any hamlet.",
+      "blanks": [
+        {
+          "choices": [
+            "complementary",
+            "conducive",
+            "inimical",
+            "antithetical",
+            "analogous",
+            "tantamount"
+          ],
+          "answers": [
+            2,
+            3
+          ]
+        }
+      ],
+      "explanation": "The participial phrase explains the view: the city 'must dissolve the bonds' of community, so the city was seen as opposed to community, and 'inimical' and 'antithetical' both express that. 'Conducive' and 'complementary' are a synonym pair that would make the city a help to community, the reverse of the assumption. 'Analogous' and 'tantamount' fit the preposition 'to' but say the city resembles or equals community, which is neither the early view nor the later finding.",
+      "words_used": [
+        "inimical",
+        "antithetical",
+        "conducive",
+        "complementary",
+        "analogous",
+        "tantamount"
+      ]
+    },
+    {
+      "id": "tc1-020",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Contemporaries agreed that the diplomat possessed ___(i)___ in unusual measure: he could deliver an ultimatum in language so gracious that the recipient thanked him for it, and he once talked a rioting garrison back to barracks without raising his voice.",
+      "blanks": [
+        {
+          "choices": [
+            "candidness",
+            "gall",
+            "panache",
+            "guile",
+            "tact"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon gives two examples of handling people without giving offense, an ultimatum that earns thanks and a riot calmed quietly, which is 'tact'. 'Guile' is the nearest trap, but the examples show graciousness, not trickery. 'Candidness' and 'gall' would both mean bluntness or rudeness, which would hardly earn thanks. 'Panache' has the right admiring tone but means showy flair, and a man who never raises his voice is not showing off.",
+      "words_used": [
+        "tact",
+        "candidness",
+        "gall",
+        "guile",
+        "panache"
+      ]
+    },
+    {
+      "id": "tc1-021",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "For decades the theory that the continents drift was ___(i)___ by most geologists, who could imagine no force capable of moving them; only when seafloor spreading supplied a mechanism did the idea pass from heresy to textbook orthodoxy.",
+      "blanks": [
+        {
+          "choices": [
+            "construed",
+            "circumvented",
+            "espoused",
+            "appropriated",
+            "derided"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The relative clause explains the geologists' attitude, they 'could imagine no force', and the word 'heresy' later confirms that the theory was scorned. So it was 'derided'. 'Espoused' is the reverse and would make 'heresy' inexplicable. 'Construed' is neutral interpretation with no attitude attached. 'Appropriated' would mean they took the theory for their own, and 'circumvented' means to get around an obstacle, neither of which describes rejecting an idea.",
+      "words_used": [
+        "deride",
+        "espouse",
+        "construe",
+        "appropriate",
+        "circumvent"
+      ]
+    },
+    {
+      "id": "se-016",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The chronicler's loyalty to his patron was ___(i)___: he followed the exiled duke through three kingdoms and two changes of religion, and he was still at his side, unpaid, when the duke died in a rented room in Bruges.",
+      "blanks": [
+        {
+          "choices": [
+            "staunch",
+            "obsequious",
+            "quixotic",
+            "fickle",
+            "capricious",
+            "steadfast"
+          ],
+          "answers": [
+            0,
+            5
+          ]
+        }
+      ],
+      "explanation": "The colon shows loyalty that survived exile, changes of faith, and years without pay, so the blank means unwavering, and 'staunch' and 'steadfast' both mean that. 'Fickle' and 'capricious' are a synonym pair with the opposite meaning. 'Obsequious' has the right tone for a servant but describes flattery, not endurance, and nothing here shows him fawning. 'Quixotic' would call the loyalty foolishly idealistic, a judgment the sentence never makes.",
+      "words_used": [
+        "staunch",
+        "steadfast",
+        "fickle",
+        "capricious",
+        "obsequious",
+        "quixotic"
+      ]
+    },
+    {
+      "id": "tc2-011",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "philosophy",
+      "stem": "The popular picture of Epicurus as a preacher of indulgence is ___(i)___: his surviving letters recommend bread, water, and the occasional piece of cheese, and the pleasure he praised was ___(ii)___, a body free of pain and a mind free of fear.",
+      "blanks": [
+        {
+          "choices": [
+            "incontrovertible",
+            "untenable",
+            "hackneyed"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "serene",
+            "ephemeral",
+            "lavish"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The colon gives evidence against the picture, bread and water instead of feasts, so the picture cannot be defended: 'untenable'. 'Incontrovertible' is the opposite, and 'hackneyed' would only say the picture is overused, not that it is wrong. Blank (ii) is defined by its appositive, 'a body free of pain and a mind free of fear', a calm state, so 'serene'. 'Lavish' is the indulgence the sentence is denying, and 'ephemeral' says the pleasure is brief, which the appositive does not suggest.",
+      "words_used": [
+        "untenable",
+        "hackneyed",
+        "incontrovertible",
+        "serene",
+        "lavish",
+        "ephemeral"
+      ]
+    },
+    {
+      "id": "tc3-006",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "art criticism",
+      "stem": "The painter's late portraits are often called unfinished, but the term ___(i)___ the question: the sitters' faces are worked to a high polish while their hands and clothes dissolve into a few ___(ii)___ strokes, and the contrast is too consistent across thirty canvases to be ___(iii)___. He was not running out of time; he was directing the eye.",
+      "blanks": [
+        {
+          "choices": [
+            "begs",
+            "confounds",
+            "obviates"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "languid",
+            "inchoate",
+            "meticulous"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "ubiquitous",
+            "deliberate",
+            "adventitious"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "Calling the portraits 'unfinished' assumes the painter meant to finish them, which is exactly what the passage disputes, so the term 'begs' the question. 'Obviates' would mean it removes the question, and 'confounds' that it confuses it; neither fits a term that quietly assumes its answer. Blank (ii) contrasts with 'worked to a high polish', so the strokes are barely formed: 'inchoate'. 'Meticulous' belongs to the faces, and 'languid' describes a mood rather than a degree of finish. Blank (iii) is what a pattern 'too consistent across thirty canvases' cannot be: accidental, so 'adventitious'. 'Deliberate' is the opposite and is what the final sentence affirms, and 'ubiquitous' is not something a contrast can be 'too consistent' to be.",
+      "words_used": [
+        "beg",
+        "obviate",
+        "confound",
+        "inchoate",
+        "meticulous",
+        "languid",
+        "adventitious",
+        "deliberate",
+        "ubiquitous"
+      ]
+    },
+    {
+      "id": "se-017",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "social science",
+      "stem": "The new director's first budget was ___(i)___ to the point of cruelty: travel was eliminated, the library's subscriptions were cancelled, and even the coffee in the staff room had to be paid for by the cup.",
+      "blanks": [
+        {
+          "choices": [
+            "austere",
+            "arduous",
+            "lavish",
+            "spartan",
+            "exacting",
+            "munificent"
+          ],
+          "answers": [
+            0,
+            3
+          ]
+        }
+      ],
+      "explanation": "The colon lists cuts to the bone, so the budget was severely stripped down, and 'austere' and 'spartan' both mean that. 'Lavish' and 'munificent' are a synonym pair meaning generous, the reverse of what is described. 'Arduous' describes effort, not spending, and 'exacting' means demanding precision, which is a different kind of strictness from cutting costs.",
+      "words_used": [
+        "austere",
+        "spartan",
+        "lavish",
+        "munificent",
+        "arduous",
+        "exacting"
+      ]
+    },
+    {
+      "id": "tc1-022",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "literature",
+      "stem": "The satirist's targets rarely recognized themselves, so ___(i)___ was his method: he never named a minister, but he gave each of his fictional fools a single trait, a lisp or a taste for turnips, that every reader in the capital could match to its owner.",
+      "blanks": [
+        {
+          "choices": [
+            "arch",
+            "oblique",
+            "ribald",
+            "trenchant",
+            "blatant"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The colon explains the method: never naming anyone, but planting one identifying trait. That is an indirect approach, so 'oblique', and it explains why the targets themselves missed the point. 'Blatant' is the opposite and would make recognition unavoidable. 'Arch' and 'ribald' describe a satirist's tone, teasing or vulgar, but tone does not explain why the targets failed to see themselves. 'Trenchant' means forceful, which again says nothing about indirection.",
+      "words_used": [
+        "oblique",
+        "blatant",
+        "arch",
+        "trenchant",
+        "ribald",
+        "satirize"
+      ]
+    },
+    {
+      "id": "tc2-012",
+      "type": "tc2",
+      "difficulty": "hard",
+      "topic": "natural science",
+      "stem": "Early microscopists ___(i)___ the tiny bodies they saw in pond water as complete animals in miniature, an interpretation that seems ___(ii)___ only in hindsight; given the instruments available to them, it was a reasonable reading of what their lenses showed.",
+      "blanks": [
+        {
+          "choices": [
+            "construed",
+            "relegated",
+            "debunked"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "inchoate",
+            "benighted",
+            "prescient"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The phrase 'as complete animals in miniature' names how the microscopists read what they saw, so blank (i) is a verb of interpretation: 'construed'. 'Debunked' would mean they exposed the idea as false, which they did not, and 'relegated' means to demote. Blank (ii) is the verdict that holds 'only in hindsight' and is then softened by 'it was a reasonable reading', so it must be an unflattering judgment of their understanding: 'benighted'. 'Prescient' would praise them for foresight, which needs no softening. 'Inchoate' would call the interpretation half-formed, but the sentence describes a complete, if mistaken, picture.",
+      "words_used": [
+        "construe",
+        "debunk",
+        "relegate",
+        "benighted",
+        "prescient",
+        "inchoate"
+      ]
+    },
+    {
+      "id": "tc3-007",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "The memoir's account of her childhood is most ___(i)___ exactly where the family papers are most ___(ii)___: she remembers a father of unbroken tenderness, while his letters show a man given to weeks of silence and sudden rages. Her biographer's task is not to decide which record lies but to explain why the daughter's memory ___(iii)___ so much.",
+      "blanks": [
+        {
+          "choices": [
+            "halcyon",
+            "perfunctory",
+            "bleak"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "halcyon",
+            "bleak",
+            "tendentious"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "meanders",
+            "substantiates",
+            "expurgates"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon pairs the two records: she remembers 'unbroken tenderness' while the letters show silence and rages. So the memoir is most idyllic, 'halcyon', exactly where the papers are most grim, 'bleak'. Each of those words is the trap for the other blank, and 'perfunctory' and 'tendentious' describe how a document is written rather than what it shows. Blank (iii) names what the daughter's memory does to produce that gap: it leaves out the rages, so it 'expurgates'. 'Substantiates' would mean her memory confirms the letters, the reverse of the contrast, and 'meanders' describes aimless wandering, not selective omission.",
+      "words_used": [
+        "halcyon",
+        "bleak",
+        "perfunctory",
+        "tendentious",
+        "expurgate",
+        "substantiate",
+        "meander"
+      ]
+    },
+    {
+      "id": "se-018",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "Because the vaccine is made from a ___(i)___ strain, one bred through hundreds of generations in culture until it lost the capacity to cause disease, it can be given safely even to patients whose immune systems are compromised.",
+      "blanks": [
+        {
+          "choices": [
+            "pernicious",
+            "virulent",
+            "innocuous",
+            "attenuated",
+            "endemic",
+            "recrudescent"
+          ],
+          "answers": [
+            2,
+            3
+          ]
+        }
+      ],
+      "explanation": "The appositive defines the strain: bred until it 'lost the capacity to cause disease', so it is weakened and harmless, and 'attenuated' and 'innocuous' both yield a sentence about a safe strain. 'Virulent' and 'pernicious' are a synonym pair meaning the opposite, dangerously harmful. 'Endemic' describes where a strain is found, not whether it is safe. 'Recrudescent' means breaking out again, which contradicts the loss of disease-causing capacity.",
+      "words_used": [
+        "attenuated",
+        "innocuous",
+        "virulent",
+        "pernicious",
+        "endemic",
+        "recrudescent"
+      ]
+    },
+    {
+      "id": "tc1-023",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Wittgenstein's later remarks on rule-following are ___(i)___ in a way his admirers rarely admit: they show that no finite set of examples can fix how a rule applies to new cases, but they offer nothing to put in place of the picture they demolish, and the reader is left knowing what cannot be true without being told what is.",
+      "blanks": [
+        {
+          "choices": [
+            "didactic",
+            "unassailable",
+            "trenchant",
+            "recondite",
+            "wanting"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon explains the shortcoming: the remarks demolish a picture but 'offer nothing to put in place of' it, so something is missing, and 'wanting' means lacking. 'Unassailable' is the admirers' view, the one the sentence is qualifying. 'Trenchant' praises the remarks' force, a strength, whereas the sentence is admitting a flaw. 'Recondite' would make the complaint about difficulty, and 'didactic' would mean the remarks teach a lesson, but the reader is expressly left 'without being told what is'.",
+      "words_used": [
+        "wanting",
+        "unassailable",
+        "recondite",
+        "trenchant",
+        "didactic"
+      ]
+    },
+    {
+      "id": "tc1-024",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The ambassador's dispatches grew steadily more ___(i)___ as the alliance weakened: where once he had reported the court's mood in full, he now confined himself to a paragraph on the weather and a line noting that the king was in good health.",
+      "blanks": [
+        {
+          "choices": [
+            "morose",
+            "querulous",
+            "circumspect",
+            "expansive",
+            "officious"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon contrasts full reports of the court's mood with safe remarks about weather and health, and the cause is a weakening alliance: the ambassador is protecting himself by saying nothing risky, so 'circumspect'. 'Expansive' is the opposite of confining himself to a paragraph. 'Morose' fits a gloomy political moment but describes mood, not the content of the dispatches. 'Querulous' and 'officious' describe complaining and meddling, neither of which is shown by talk of the weather.",
+      "words_used": [
+        "circumspect",
+        "expansive",
+        "querulous",
+        "officious",
+        "morose"
+      ]
+    },
+    {
+      "id": "se-019",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "The critic's prose is ___(i)___ even when her judgments are kind: a favorable review from her reads like a cross-examination, each compliment sharpened to a point and delivered as though the author were on trial.",
+      "blanks": [
+        {
+          "choices": [
+            "benign",
+            "caustic",
+            "genial",
+            "pedantic",
+            "mordant",
+            "sententious"
+          ],
+          "answers": [
+            1,
+            4
+          ]
+        }
+      ],
+      "explanation": "'Even when her judgments are kind' signals that the blank describes something other than kindness, and the colon explains: compliments 'sharpened to a point' delivered like a cross-examination. That is biting prose, and 'mordant' and 'caustic' both mean that. 'Genial' and 'benign' are a synonym pair, but they restate the kindness the sentence is contrasting with. 'Pedantic' would make her fussy about details and 'sententious' would make her preachy; neither is what a sharpened compliment shows.",
+      "words_used": [
+        "mordant",
+        "caustic",
+        "genial",
+        "benign",
+        "pedantic",
+        "sententious"
+      ]
+    },
+    {
+      "id": "tc2-013",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "Coral polyps are ___(i)___ organisms, each a few millimeters across and incapable of surviving alone; yet in ___(ii)___ they build the largest structures made by any living thing, reefs that stretch for hundreds of miles.",
+      "blanks": [
+        {
+          "choices": [
+            "diminutive",
+            "autonomous",
+            "colossal"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "aggregate",
+            "flux",
+            "abeyance"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "'A few millimeters across' defines blank (i): the polyps are tiny, 'diminutive'. 'Colossal' describes the reefs, not the polyps, and 'autonomous' contradicts 'incapable of surviving alone'. 'Yet' then contrasts the tiny individual with the enormous collective result, so blank (ii) must mean taken together: 'in aggregate'. 'Abeyance' would mean suspended activity and 'flux' constant change; neither explains how small things build large ones.",
+      "words_used": [
+        "diminutive",
+        "colossal",
+        "autonomous",
+        "aggregate",
+        "abeyance",
+        "flux"
+      ]
+    },
+    {
+      "id": "tc3-008",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "social science",
+      "stem": "The theory's ___(i)___ is part of its appeal: it explains famine, war, and migration by a single variable, and students weary of the ___(ii)___ conclusions of the field's more careful practitioners find its confidence bracing. Critics reply that a model which ___(iii)___ every event with equal ease has in fact explained none of them.",
+      "blanks": [
+        {
+          "choices": [
+            "audacity",
+            "nuance",
+            "prescience"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "dogmatic",
+            "esoteric",
+            "provisional"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "repudiates",
+            "forestalls",
+            "incorporates"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon explains blank (i): reducing famine, war, and migration to one variable is a bold claim, so 'audacity'. 'Nuance' is exactly what a single-variable theory lacks, and 'prescience' would make the appeal about prediction rather than boldness. Blank (ii) describes what the careful practitioners produce and students are 'weary of', in contrast to 'confidence': tentative conclusions, so 'provisional'. 'Dogmatic' would describe the bold theory instead, and 'esoteric' is about who can understand the work, not how firmly it concludes. Blank (iii) states the critics' complaint that a theory absorbing every event explains nothing, so the model 'incorporates' every event. 'Repudiates' is the reverse, and 'forestalls' means to prevent, which a model does not do to events.",
+      "words_used": [
+        "audacity",
+        "nuance",
+        "prescience",
+        "provisional",
+        "dogmatic",
+        "esoteric",
+        "incorporate",
+        "repudiate",
+        "forestall"
+      ]
+    },
+    {
+      "id": "tc1-025",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "art criticism",
+      "stem": "The catalogue's claim that the fresco was painted in a single day is ___(i)___ by the plaster itself: analysis shows seven distinct patches, each applied and painted before the next was laid, a sequence that must have taken at least a week.",
+      "blanks": [
+        {
+          "choices": [
+            "underscored",
+            "belied",
+            "enumerated",
+            "substantiated",
+            "obscured"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The colon presents evidence that contradicts the one-day claim, so the plaster shows the claim to be false: 'belied'. 'Substantiated' and 'underscored' would mean the plaster supports the claim, the reverse of a week-long sequence. 'Enumerated' picks up the counting of seven patches but is not something you do to a claim. 'Obscured' would mean the plaster made the question murkier, whereas the analysis settles it.",
+      "words_used": [
+        "belie",
+        "substantiate",
+        "enumerate",
+        "underscore",
+        "obscure"
+      ]
+    },
+    {
+      "id": "se-020",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Colleagues who trained under the surgeon describe a man ___(i)___ in his standards: an instrument laid a quarter-inch out of place would halt an operation, and a resident who misstated a dosage by a single decimal was dismissed on the spot.",
+      "blanks": [
+        {
+          "choices": [
+            "imperious",
+            "remiss",
+            "cerebral",
+            "punctilious",
+            "derelict",
+            "exacting"
+          ],
+          "answers": [
+            3,
+            5
+          ]
+        }
+      ],
+      "explanation": "The colon gives the evidence: a quarter-inch and a decimal point were enough to stop surgery or end a career. Standards that precise are 'exacting' and 'punctilious'. 'Remiss' and 'derelict' are a synonym pair meaning negligent, the opposite of what is described. 'Imperious' fits the tone of a man who dismisses residents on the spot but describes arrogance rather than precision. 'Cerebral' says he was intellectual, which the examples do not address.",
+      "words_used": [
+        "exacting",
+        "punctilious",
+        "remiss",
+        "derelict",
+        "imperious",
+        "cerebral"
+      ]
+    },
+    {
+      "id": "tc2-014",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The treaty was ___(i)___ from the start, signed by envoys whose governments had already fallen and guaranteed by a power that had no intention of enforcing it; that it survived on paper for a decade says less about its ___(ii)___ than about how little anyone cared to test it.",
+      "blanks": [
+        {
+          "choices": [
+            "propitious",
+            "unviable",
+            "inviolable"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "efficacy",
+            "notoriety",
+            "veracity"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The participial phrases explain blank (i): signatories without governments and a guarantor unwilling to act make a treaty that could never work, so 'unviable'. 'Inviolable' looks similar but means never to be broken, and 'propitious' means promising, both the reverse of the evidence. Blank (ii) is what a decade's survival might seem to prove but does not: the treaty's ability to do its job, its 'efficacy'. 'Veracity' would make the treaty a statement to be true or false, and 'notoriety' is fame for something bad, which survival on paper does not confer.",
+      "words_used": [
+        "unviable",
+        "inviolable",
+        "propitious",
+        "efficacy",
+        "veracity",
+        "notoriety"
+      ]
+    },
+    {
+      "id": "tc3-009",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "literature",
+      "stem": "The poet's admirers speak of her work as ___(i)___ as if the word were itself praise, but difficulty is a virtue only when it ___(ii)___ effort: in the early lyrics every hard image pays off on a second reading, whereas the late work is merely ___(iii)___, hard because there is nothing beneath the surface to find.",
+      "blanks": [
+        {
+          "choices": [
+            "limpid",
+            "sentimental",
+            "opaque"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "precludes",
+            "requites",
+            "elicits"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "vacuous",
+            "prolific",
+            "recondite"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The admirers' word is treated 'as if' it were praise, and the sentence goes on to discuss 'difficulty', so the word means hard to see into: 'opaque'. 'Limpid' is the opposite and 'sentimental' has nothing to do with difficulty. Blank (ii) is defined by 'every hard image pays off on a second reading': difficulty is good when it repays the reader's work, so 'requites'. 'Elicits' is the trap, since hard poems do call forth effort, but the point is the payoff, not the demand; 'precludes' would mean difficulty prevents effort. Blank (iii) is explained by 'nothing beneath the surface to find': the late work is empty, 'vacuous'. 'Recondite' would repeat the admirers' flattering label, and 'prolific' is about quantity of output.",
+      "words_used": [
+        "opaque",
+        "limpid",
+        "sentimental",
+        "requite",
+        "preclude",
+        "elicit",
+        "vacuous",
+        "recondite",
+        "prolific"
+      ]
+    },
+    {
+      "id": "se-021",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "Because wolves had been absent from the valley for seventy years, the elk had grown ___(i)___, grazing in the open by day and lingering at the riverbanks in ways their ancestors, hunted at every turn, could never have afforded.",
+      "blanks": [
+        {
+          "choices": [
+            "wary",
+            "ravenous",
+            "leery",
+            "nonchalant",
+            "insouciant",
+            "indigenous"
+          ],
+          "answers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "explanation": "Seventy years without predators explains the behavior described, grazing in the open and lingering at the water, which shows a lack of concern, so 'insouciant' and 'nonchalant'. 'Wary' and 'leery' are a synonym pair meaning the opposite, and they describe the hunted ancestors instead. 'Ravenous' fits the word 'grazing' but is about hunger, not caution. 'Indigenous' says the elk are native, which is irrelevant to how they behave.",
+      "words_used": [
+        "insouciant",
+        "nonchalant",
+        "wary",
+        "leery",
+        "ravenous",
+        "indigenous",
+        "afford"
+      ]
+    },
+    {
+      "id": "tc1-026",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "The economist's forecasts were ___(i)___ in a way that flattered her: she predicted downturns so often that when one finally arrived she could point to a warning, and the many warnings that had come to nothing were quietly forgotten.",
+      "blanks": [
+        {
+          "choices": [
+            "sporadic",
+            "mundane",
+            "sanguine",
+            "prescient",
+            "prolific"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon explains the flattery: she 'predicted downturns so often' that one was bound to land. So the forecasts were plentiful, 'prolific', and their sheer number, not their accuracy, made her look good. 'Prescient' is the appearance the sentence is debunking, not the reality. 'Sporadic' contradicts 'so often'. 'Sanguine' means optimistic, the reverse of constant downturn warnings, and 'mundane' says nothing about frequency.",
+      "words_used": [
+        "prolific",
+        "prescient",
+        "sporadic",
+        "sanguine",
+        "mundane"
+      ]
+    },
+    {
+      "id": "tc1-027",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "biography",
+      "stem": "Although the inventor is now ___(i)___ as a founder of modern computing, in his own lifetime his machines were regarded as expensive curiosities, and he died with his most ambitious design unbuilt and his government grant withdrawn.",
+      "blanks": [
+        {
+          "choices": [
+            "supplanted",
+            "indicted",
+            "patronized",
+            "lionized",
+            "pilloried"
+          ],
+          "answer": 3
+        }
+      ],
+      "explanation": "'Although' contrasts his present standing with the neglect of his lifetime, so today he is celebrated: 'lionized'. 'Pilloried' is the reverse, public scorn. 'Patronized' sounds like support but means treated condescendingly, which is not what 'a founder of modern computing' implies. 'Indicted' is a criminal charge, and 'supplanted' would mean he had been replaced, neither of which contrasts with 'expensive curiosities'.",
+      "words_used": [
+        "lionize",
+        "pillory",
+        "indict",
+        "patronize",
+        "supplant"
+      ]
+    },
+    {
+      "id": "se-022",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The colony's early governors were ___(i)___ in their reports to the crown, describing meadows where there were swamps and harbors where there were mudflats, and the settlers who crossed the ocean on the strength of those accounts did not forgive them.",
+      "blanks": [
+        {
+          "choices": [
+            "avaricious",
+            "mendacious",
+            "forthright",
+            "parochial",
+            "untruthful",
+            "veracious"
+          ],
+          "answers": [
+            1,
+            4
+          ]
+        }
+      ],
+      "explanation": "Meadows that were swamps and harbors that were mudflats are falsehoods, so the governors were untruthful, and 'mendacious' and 'untruthful' both produce that sentence. 'Veracious' and 'forthright' are a synonym pair meaning the opposite, and would leave the settlers with nothing to forgive. 'Parochial' means narrow-minded, which does not explain false descriptions. 'Avaricious' might explain a motive, but the sentence describes what the reports said, not what the governors wanted.",
+      "words_used": [
+        "mendacious",
+        "veracious",
+        "forthright",
+        "parochial",
+        "avaricious"
+      ]
+    },
+    {
+      "id": "tc2-015",
+      "type": "tc2",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Berkeley's argument is often dismissed as ___(i)___, a clever trick that no one could believe, yet Hume, no friend to idealism, conceded that it admitted of no answer; the puzzle for later readers has been how an argument can be at once ___(ii)___ and unpersuasive.",
+      "blanks": [
+        {
+          "choices": [
+            "arcane",
+            "specious",
+            "irrefutable"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "fallacious",
+            "irrefutable",
+            "facile"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The appositive 'a clever trick that no one could believe' defines blank (i): plausible-looking but hollow, which is 'specious'. 'Irrefutable' is the opposite and belongs to blank (ii), and 'arcane' would make the complaint about obscurity rather than trickery. 'Yet' introduces Hume's concession that the argument 'admitted of no answer', and blank (ii) restates that concession in the paradox 'at once ___ and unpersuasive': 'irrefutable'. 'Fallacious' would remove the paradox, since a fallacious argument is expected to be unpersuasive, and 'facile' describes shallow reasoning, which no one who could not answer it would call it.",
+      "words_used": [
+        "specious",
+        "irrefutable",
+        "arcane",
+        "fallacious",
+        "facile",
+        "concede"
+      ]
+    },
+    {
+      "id": "tc3-010",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "The naturalist's claim that the birds navigate by the stars was at first ___(i)___ by ornithologists, who pointed out that the species migrates on overcast nights as readily as on clear ones. Later experiments ___(ii)___ the objection without overturning the claim: the birds do use the stars, but they also carry a magnetic sense that ___(iii)___ it when the sky is hidden, so that neither cue is indispensable.",
+      "blanks": [
+        {
+          "choices": [
+            "promulgated",
+            "buttressed",
+            "gainsaid"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "resolved",
+            "eschewed",
+            "compounded"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "oscillates",
+            "supplants",
+            "flags"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The relative clause shows the ornithologists raising a counterexample, so they 'gainsaid' the claim; 'buttressed' is the reverse, and 'promulgated' means to announce, which is not a response to a claim. The experiments dealt with the objection 'without overturning the claim', so they settled it: 'resolved'. 'Compounded' would make the objection worse, and 'eschewed' would mean the experiments avoided it. Blank (iii) explains how the birds cope when stars are hidden: a second sense takes over, so 'supplants'. 'Flags' would mean the magnetic sense weakens exactly when needed, which contradicts 'neither cue is indispensable', and 'oscillates' describes swinging back and forth, not taking over.",
+      "words_used": [
+        "gainsay",
+        "buttress",
+        "promulgate",
+        "resolve",
+        "compound",
+        "eschew",
+        "supplant",
+        "flag",
+        "oscillate"
+      ]
+    },
+    {
+      "id": "tc1-028",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The dealer's catalogue attributes the drawing to the master himself, but the line is ___(i)___, wavering where his is sure and thickening where his tapers, and points instead to a pupil copying from a finished work.",
+      "blanks": [
+        {
+          "choices": [
+            "maladroit",
+            "artful",
+            "consummate",
+            "tortuous",
+            "desultory"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The participial phrase defines the blank: a line that wavers and thickens where the master's is sure and fine is clumsy, so 'maladroit'. 'Consummate' and 'artful' both praise skill, the reverse of the evidence. 'Tortuous' fits the word 'line' but means winding, which is a shape, not a fault of control. 'Desultory' means aimless or unplanned, but the pupil is following a model closely, just badly.",
+      "words_used": [
+        "maladroit",
+        "consummate",
+        "artful",
+        "tortuous",
+        "desultory"
+      ]
+    },
+    {
+      "id": "se-023",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "So ___(i)___ is the desert beetle's shell that a drop of fog condensing on it runs straight down to the insect's mouth without soaking in, a trick engineers have spent decades trying to copy in fabrics.",
+      "blanks": [
+        {
+          "choices": [
+            "striated",
+            "impervious",
+            "porous",
+            "diaphanous",
+            "impermeable",
+            "absorbent"
+          ],
+          "answers": [
+            1,
+            4
+          ]
+        }
+      ],
+      "explanation": "'Runs straight down ... without soaking in' tells you water cannot pass into the shell, so 'impermeable' and 'impervious' both fit and mean the same thing. 'Porous' and 'absorbent' are a synonym pair meaning the opposite: water would soak in. 'Striated' describes a striped surface, which says nothing about water. 'Diaphanous' means delicate and translucent, which is neither what a beetle shell is nor what keeps water out.",
+      "words_used": [
+        "impermeable",
+        "impervious",
+        "striated",
+        "diaphanous"
+      ]
+    },
+    {
+      "id": "tc2-016",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "literature",
+      "stem": "The novel's narrator is ___(i)___ by design: he reports conversations he could not have heard and motives he could not have known, and the reader who notices soon realizes that his confident account is meant to invite ___(ii)___ rather than belief.",
+      "blanks": [
+        {
+          "choices": [
+            "veracious",
+            "omniscient",
+            "dubious"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "approbation",
+            "credulity",
+            "skepticism"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon explains blank (i): a narrator who reports what he could not have known is not to be trusted, so 'dubious'. 'Omniscient' is the trap, since an all-knowing narrator does report hidden things, but 'by design' and 'rather than belief' show that this one is meant to be caught out, not accepted. 'Veracious' is the reverse. Blank (ii) is set against 'belief' by 'rather than', so it must be doubt: 'skepticism'. 'Credulity' is another word for belief, which would make the contrast collapse, and 'approbation' means approval, not a stance toward truth.",
+      "words_used": [
+        "dubious",
+        "veracious",
+        "credulity",
+        "approbation"
+      ]
+    },
+    {
+      "id": "tc3-011",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "biography",
+      "stem": "The memoirist's account of his years in exile is ___(i)___ in a way that has misled biographers: he presents each move from city to city as a free choice, omitting the expulsion orders that the archives preserve, so that a life driven by ___(ii)___ reads as one of ___(iii)___ wandering.",
+      "blanks": [
+        {
+          "choices": [
+            "disingenuous",
+            "elegiac",
+            "ingenuous"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "avarice",
+            "duress",
+            "insouciance"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "ineluctable",
+            "unfettered",
+            "peripatetic"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The colon describes the method: presenting forced moves as choices and omitting the orders. That is a false show of frankness, so 'disingenuous'; 'ingenuous' is its opposite and 'elegiac' describes a mournful tone, not a misleading one. Blank (ii) names what actually drove the moves, the expulsion orders, so 'duress'. 'Insouciance' is the carefree air the memoir projects, not the reality, and 'avarice' is a motive nothing in the passage supports. Blank (iii) is how the life 'reads' in the memoir, the opposite of being driven: 'unfettered'. 'Peripatetic' fits the word 'wandering' but does not contrast with compulsion, and 'ineluctable' describes the expulsions, the truth the memoir hides.",
+      "words_used": [
+        "disingenuous",
+        "ingenuous",
+        "elegiac",
+        "duress",
+        "insouciance",
+        "avarice",
+        "unfettered",
+        "peripatetic",
+        "ineluctable"
+      ]
+    },
+    {
+      "id": "se-024",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "The report's authors ___(i)___ their most striking finding to a footnote, apparently judging that a result so at odds with the ministry's declared policy was better acknowledged quietly than announced.",
+      "blanks": [
+        {
+          "choices": [
+            "banished",
+            "underscored",
+            "ascribed",
+            "touted",
+            "relegated",
+            "expunged"
+          ],
+          "answers": [
+            0,
+            4
+          ]
+        }
+      ],
+      "explanation": "Putting a striking finding in a footnote because it was 'better acknowledged quietly' is demoting it, and 'relegated' and 'banished' both produce that sentence. 'Underscored' and 'touted' are a synonym pair meaning the opposite, drawing attention to it. 'Expunged' goes too far: the finding was kept, in a footnote, not deleted. 'Ascribed' fits the preposition 'to' but means attributing something to a cause, not moving it.",
+      "words_used": [
+        "relegate",
+        "banish",
+        "underscore",
+        "tout",
+        "expunge",
+        "ascribe"
+      ]
+    },
+    {
+      "id": "tc1-029",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "history",
+      "stem": "The chronicler's reputation for ___(i)___ owes much to a single passage in which he admits he was not present at the battle he describes; elsewhere he reports speeches verbatim from councils held behind closed doors, and no reader has thought to ask how he knew.",
+      "blanks": [
+        {
+          "choices": [
+            "volubility",
+            "mendacity",
+            "temperance",
+            "veracity",
+            "prescience"
+          ],
+          "answer": 3
+        }
+      ],
+      "explanation": "One admission of absence is the kind of thing that earns a writer a name for honesty, and the semicolon then undercuts that name with impossible verbatim speeches. So the reputation is for 'veracity'. 'Mendacity' is the opposite and is not what an admission would earn. 'Volubility' fits the verbatim speeches but is not a reputation an admission of absence would build. 'Prescience' and 'temperance' are qualities unrelated to whether an account is truthful.",
+      "words_used": [
+        "veracity",
+        "mendacity",
+        "volubility",
+        "prescience",
+        "temperance"
+      ]
+    },
+    {
+      "id": "tc1-030",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "Field guides once described the species as ___(i)___ to the high Andes, but genetic sampling has since found populations, indistinguishable from the Andean ones, scattered through lowland forest a thousand miles to the east.",
+      "blanks": [
+        {
+          "choices": [
+            "extant",
+            "anomalous",
+            "endemic",
+            "indigenous",
+            "ubiquitous"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'But' contrasts the guides' claim with the discovery of populations far away, so the claim must have confined the species to the Andes: 'endemic'. 'Indigenous' is the trap, since it also means native, but a species can be indigenous to the Andes and live elsewhere too, so the lowland finding would not contradict it. 'Ubiquitous' is the reverse of a species tied to one range. 'Anomalous' and 'extant' say the species is unusual or still living, neither of which is what 'to the high Andes' attaches to.",
+      "words_used": [
+        "endemic",
+        "indigenous",
+        "ubiquitous",
+        "anomalous",
+        "extant"
+      ]
+    },
+    {
+      "id": "se-025",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "philosophy",
+      "stem": "Aristotle's remarks on the topic amount to a ___(i)___, a few sentences scattered across three treatises, yet commentators have built elaborate doctrines on them in inverse proportion to the evidence.",
+      "blanks": [
+        {
+          "choices": [
+            "hodgepodge",
+            "welter",
+            "plethora",
+            "smattering",
+            "modicum",
+            "surfeit"
+          ],
+          "answers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "explanation": "The appositive 'a few sentences scattered across three treatises' defines the blank as a small quantity, and 'modicum' and 'smattering' both mean that; the 'yet' then contrasts the little evidence with the elaborate doctrines. 'Plethora' and 'surfeit' are a synonym pair meaning the opposite, an excess. 'Welter' and 'hodgepodge' also pair up, but they describe a confused jumble, and a few scattered sentences are too few to be a jumble; the complaint is about scarcity, not disorder.",
+      "words_used": [
+        "modicum",
+        "smattering",
+        "plethora",
+        "surfeit",
+        "welter",
+        "hodgepodge",
+        "elaborate"
+      ]
+    },
+    {
+      "id": "tc2-017",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "social science",
+      "stem": "Field researchers must remain ___(i)___ about their own presence: villagers behave differently before a stranger with a notebook, and the ethnographer who forgets this will mistake a performance staged for her benefit for the ___(ii)___ life of the community.",
+      "blanks": [
+        {
+          "choices": [
+            "oblivious",
+            "wary",
+            "diffident"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "insular",
+            "quotidian",
+            "histrionic"
+          ],
+          "answer": 1
+        }
+      ],
+      "explanation": "The colon warns that the researcher's presence changes what she sees, so she must stay alert to it: 'wary'. 'Oblivious' is the mistake the sentence warns against, and 'diffident' would mean shy about her presence, not watchful of its effects. Blank (ii) is what the 'performance staged for her benefit' is mistaken for, so it must be the ordinary, unstaged life: 'quotidian'. 'Histrionic' describes the performance itself, not what it is confused with, and 'insular' says the community is isolated, which is beside the point.",
+      "words_used": [
+        "wary",
+        "diffident",
+        "quotidian",
+        "histrionic",
+        "insular"
+      ]
+    },
+    {
+      "id": "tc3-012",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "The novel was ___(i)___ on publication, its reviewers agreeing that a story told entirely in letters no one answers was a stunt; a generation later the same device was ___(ii)___ as the book's chief invention, and the early notices are now cited chiefly as evidence of how ___(iii)___ even intelligent readers can be when a form is new.",
+      "blanks": [
+        {
+          "choices": [
+            "feted",
+            "bowdlerized",
+            "excoriated"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "misattributed",
+            "disparaged",
+            "hailed"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "credulous",
+            "perspicacious",
+            "obtuse"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "Reviewers who called the book 'a stunt' were attacking it, so it was 'excoriated'; 'feted' is the opposite and 'bowdlerized' means censored, which reviewers do not do. 'A generation later' marks a reversal, and calling the device 'the book's chief invention' is praise, so it was 'hailed'. 'Disparaged' would continue the first verdict rather than reverse it, and 'misattributed' would raise a question of authorship the passage never mentions. Blank (iii) is the lesson drawn from the early reviewers' failure to see the device's worth: they were slow to understand, 'obtuse'. 'Perspicacious' is the reverse, and 'credulous' would make them too ready to believe, whereas their fault was refusing to see merit.",
+      "words_used": [
+        "excoriate",
+        "fete",
+        "bowdlerize",
+        "hail",
+        "disparage",
+        "misattribute",
+        "obtuse",
+        "perspicacious",
+        "credulous"
+      ]
+    },
+    {
+      "id": "tc1-031",
+      "type": "tc1",
+      "difficulty": "easy",
+      "topic": "biography",
+      "stem": "The senator was famous for his ___(i)___ in debate: opponents who came armed with statistics found themselves answered with anecdotes, jokes, and the occasional line of verse, and left the chamber unsure whether they had lost the argument or merely the audience.",
+      "blanks": [
+        {
+          "choices": [
+            "acumen",
+            "temerity",
+            "rhetoric",
+            "asperity",
+            "levity"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "The colon describes his method: anecdotes, jokes, and verse instead of statistics. That is lightness of manner, 'levity', and it explains why opponents lost 'the audience' rather than the argument. 'Asperity' is harshness, the opposite of jokes. 'Acumen' would mean sharp judgment, but the sentence pointedly leaves open whether he won the argument. 'Rhetoric' is too broad, since it covers his opponents' statistics as well, and 'temerity' is recklessness, which jokes and verse do not show.",
+      "words_used": [
+        "levity",
+        "asperity",
+        "acumen",
+        "rhetoric",
+        "temerity"
+      ]
+    },
+    {
+      "id": "se-026",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The frescoes' colors have proved remarkably ___(i)___: five centuries of candle smoke, damp, and two clumsy restorations have dimmed them but not destroyed them, and a recent cleaning revealed blues nearly as vivid as the day they were laid.",
+      "blanks": [
+        {
+          "choices": [
+            "evanescent",
+            "muted",
+            "enduring",
+            "luminous",
+            "indelible",
+            "transitory"
+          ],
+          "answers": [
+            2,
+            4
+          ]
+        }
+      ],
+      "explanation": "The colon gives the evidence: five centuries of abuse 'dimmed them but not destroyed them', and cleaning brought the blues back. Colors that survive that are lasting, and 'indelible' and 'enduring' both say so. 'Evanescent' and 'transitory' are a synonym pair meaning the opposite, quick to fade. 'Luminous' fits the vivid blues but describes brightness, not survival. 'Muted' picks up 'dimmed' but describes the temporary state the cleaning reversed, not the quality the sentence is praising.",
+      "words_used": [
+        "indelible",
+        "evanescent",
+        "transitory",
+        "luminous",
+        "muted"
+      ]
+    },
+    {
+      "id": "tc2-018",
+      "type": "tc2",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The rebellion's leaders were ___(i)___ men, drawn from the merchant class and reluctant to arm the peasantry they claimed to speak for; their caution ___(ii)___ them, for when the royal army arrived they had neither the numbers to fight nor the popular support to hide.",
+      "blanks": [
+        {
+          "choices": [
+            "intrepid",
+            "indigent",
+            "chary"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "exonerated",
+            "vindicated",
+            "hamstrung"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "'Reluctant to arm the peasantry' and the later word 'caution' define blank (i): the leaders were 'chary'. 'Intrepid' is the opposite, and 'indigent' contradicts 'drawn from the merchant class'. The 'for' clause explains what their caution did: it left them without fighters or shelter, which crippled them, so 'hamstrung'. 'Vindicated' would mean their caution was proved right, the reverse of the disaster described, and 'exonerated' means cleared of blame, which is not something caution does to an army's prospects.",
+      "words_used": [
+        "chary",
+        "intrepid",
+        "indigent",
+        "hamstrung",
+        "vindicate",
+        "exonerate"
+      ]
+    },
+    {
+      "id": "tc3-013",
+      "type": "tc3",
+      "difficulty": "medium",
+      "topic": "natural science",
+      "stem": "For decades the theory that ulcers were caused by stress was ___(i)___, taught in every medical school and repeated in every textbook; the discovery of a bacterium in the stomach lining was at first ___(ii)___ by the profession, which had long held that nothing could survive such acidity. Only when one of the discoverers swallowed a culture and promptly fell ill did the resistance ___(iii)___.",
+      "blanks": [
+        {
+          "choices": [
+            "unassailable",
+            "specious",
+            "moribund"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "spurned",
+            "replicated",
+            "championed"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "abate",
+            "coalesce",
+            "recrudesce"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "'Taught in every medical school and repeated in every textbook' describes a theory no one questioned, so it was 'unassailable'. 'Moribund' is the opposite, and 'specious' judges the theory's truth, whereas the participial phrase describes its status. The profession 'had long held that nothing could survive such acidity', so it rejected the discovery: 'spurned'. 'Championed' and 'replicated' would both mean the profession took the finding seriously, which contradicts the 'resistance' of the last sentence. That resistance gave way only after the self-experiment, so it 'abated'. 'Recrudesce' would mean it flared up again, and 'coalesce' means to merge, neither of which describes resistance ending.",
+      "words_used": [
+        "unassailable",
+        "moribund",
+        "specious",
+        "spurn",
+        "champion",
+        "abate",
+        "recrudesce",
+        "coalesce"
+      ]
+    },
+    {
+      "id": "se-027",
+      "type": "se",
+      "difficulty": "hard",
+      "topic": "biography",
+      "stem": "Reviewers found the statesman's memoirs ___(i)___ to a degree unusual even in the genre: not a single decision is regretted, every defeat is reassigned to a colleague, and the author emerges from six hundred pages without having once been wrong.",
+      "blanks": [
+        {
+          "choices": [
+            "self-effacing",
+            "vindictive",
+            "contrite",
+            "complacent",
+            "turgid",
+            "smug"
+          ],
+          "answers": [
+            3,
+            5
+          ]
+        }
+      ],
+      "explanation": "The colon describes an author who regrets nothing and is never wrong, which is self-satisfaction, so 'smug' and 'complacent' both fit. 'Contrite' and 'self-effacing' are a pair meaning the opposite: a contrite author would regret decisions and a self-effacing one would not claim to be always right. 'Vindictive' is the trap, since blaming colleagues looks like settling scores, but the sentence describes self-protection, not revenge, and nothing suggests the colleagues were enemies. 'Turgid' fits six hundred pages but judges the prose, not the author's attitude.",
+      "words_used": [
+        "smug",
+        "complacent",
+        "contrite",
+        "self-effacing",
+        "turgid",
+        "vindictive"
+      ]
+    },
+    {
+      "id": "tc1-032",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "social science",
+      "stem": "The reform's defenders treat the falling crime figures as ___(i)___, yet the same decline appears in neighboring districts that adopted no reform at all, which suggests that the figures measure a regional trend rather than a local achievement.",
+      "blanks": [
+        {
+          "choices": [
+            "propitious",
+            "appreciable",
+            "ambiguous",
+            "adventitious",
+            "unequivocal"
+          ],
+          "answer": 4
+        }
+      ],
+      "explanation": "'Yet' contrasts the defenders' reading with evidence that the figures prove nothing about the reform, so the defenders must have treated them as settling the question: 'unequivocal'. 'Ambiguous' is what the sentence shows the figures actually are, not what the defenders claim. 'Adventitious' is the critics' implied view, that the decline is a coincidence, not the defenders'. 'Propitious' and 'appreciable' both describe the figures favorably but do not claim they prove anything, so 'yet' would have nothing to contradict.",
+      "words_used": [
+        "unequivocal",
+        "ambiguous",
+        "adventitious",
+        "propitious",
+        "appreciable"
+      ]
+    },
+    {
+      "id": "tc1-033",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "history",
+      "stem": "The minister's reputation for being ___(i)___ survived even the scandal, largely because the bribes he took were so small and so evenly distributed among the factions that no one could accuse him of having been bought by anyone in particular.",
+      "blanks": [
+        {
+          "choices": [
+            "impartial",
+            "scrupulous",
+            "parsimonious",
+            "partisan",
+            "venal"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The 'because' clause explains how the reputation survived: bribes 'evenly distributed among the factions' meant he favored no one, and favoring no one is exactly what 'impartial' means. 'Scrupulous' is the closest trap, but a man who takes bribes cannot keep a name for honesty; what he keeps is a name for not taking sides. 'Venal' and 'partisan' are the accusations the sentence says he escaped. 'Parsimonious' plays on the bribes being small but describes his spending, not his reputation.",
+      "words_used": [
+        "impartial",
+        "parsimonious",
+        "partisan",
+        "scrupulous"
+      ]
+    },
+    {
+      "id": "se-028",
+      "type": "se",
+      "difficulty": "easy",
+      "topic": "natural science",
+      "stem": "The finch population on the island ___(i)___ after the drought broke: with seeds again plentiful, the survivors bred twice in a single season, and within three years their numbers exceeded the pre-drought count.",
+      "blanks": [
+        {
+          "choices": [
+            "plummeted",
+            "coalesced",
+            "languished",
+            "proliferated",
+            "burgeoned",
+            "oscillated"
+          ],
+          "answers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "explanation": "The colon describes rapid growth, double breeding and numbers above the old count, so the population 'burgeoned' or 'proliferated', which say the same thing. 'Languished' and 'plummeted' are a synonym pair for decline, the opposite of the evidence. 'Oscillated' would mean the numbers swung up and down, but the sentence describes a steady rise. 'Coalesced' means merged, which a population does not do to itself.",
+      "words_used": [
+        "burgeon",
+        "proliferate",
+        "languish",
+        "plummet",
+        "oscillate",
+        "coalesce"
+      ]
+    },
+    {
+      "id": "tc2-019",
+      "type": "tc2",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "The poem is less ___(i)___ than its reputation suggests: the allusions that so daunted its first readers are, once identified, mostly ___(ii)___, decorative references that could be removed without disturbing the argument, and the difficulty that remains is the ordinary difficulty of following a long sentence.",
+      "blanks": [
+        {
+          "choices": [
+            "pellucid",
+            "turgid",
+            "recondite"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "superfluous",
+            "germane",
+            "cryptic"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The sentence is deflating a reputation for difficulty, so blank (i) names that quality: 'recondite'. 'Pellucid' is the reverse and would make the reputation a compliment the sentence is denying. 'Turgid' criticizes pompous style, but the reputation at issue is for allusions that 'daunted' readers, not for pomposity. Blank (ii) is defined by 'decorative references that could be removed without disturbing the argument', so the allusions are 'superfluous'. 'Germane' would make them essential, the opposite, and 'cryptic' is ruled out by 'once identified'.",
+      "words_used": [
+        "recondite",
+        "pellucid",
+        "turgid",
+        "superfluous",
+        "germane",
+        "cryptic"
+      ]
+    },
+    {
+      "id": "tc3-014",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "philosophy",
+      "stem": "Pascal's wager has been ___(i)___ as a piece of cynical bookkeeping, but the charge misreads its genre: the argument is addressed not to the ___(ii)___, who need no persuading, but to the worldly gambler, and it borrows his idiom precisely because appeals to conscience had left him ___(iii)___.",
+      "blanks": [
+        {
+          "choices": [
+            "expounded",
+            "lampooned",
+            "venerated"
+          ],
+          "answer": 1
+        },
+        {
+          "choices": [
+            "skeptic",
+            "ascetic",
+            "pious"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "indifferent",
+            "contrite",
+            "nonplussed"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "Calling the wager 'cynical bookkeeping' is mockery, and 'the charge' confirms an attack, so it was 'lampooned'; 'venerated' is the opposite and 'expounded' is neutral explanation, not a charge. Blank (ii) names those 'who need no persuading' about faith, set against 'the worldly gambler': the 'pious'. 'Skeptic' describes the gambler's side, and 'ascetic' is about self-denial rather than belief. Blank (iii) explains why Pascal switched to the gambler's idiom: appeals to conscience had failed to move him, leaving him 'indifferent'. 'Contrite' would mean those appeals had worked, and 'nonplussed' means confused, whereas the gambler was simply unmoved.",
+      "words_used": [
+        "lampoon",
+        "venerate",
+        "expound",
+        "pious",
+        "skeptic",
+        "ascetic",
+        "indifferent",
+        "contrite",
+        "nonplussed"
+      ]
+    },
+    {
+      "id": "tc1-034",
+      "type": "tc1",
+      "difficulty": "medium",
+      "topic": "art criticism",
+      "stem": "The critic's praise for the young painter was ___(i)___: he admired her color, he said, and her energy, and he was sure she would find a subject worthy of them once she had lived a little longer.",
+      "blanks": [
+        {
+          "choices": [
+            "patronizing",
+            "unstinting",
+            "captious",
+            "perfunctory",
+            "effusive"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The colon reveals the sting: 'once she had lived a little longer' treats the painter as a promising child, so the praise was 'patronizing'. 'Unstinting' and 'effusive' would make it wholehearted, which the condescending ending rules out. 'Captious' means fault-finding over trifles, but the critic finds no faults; he simply talks down. 'Perfunctory' would mean he praised her carelessly, yet the praise is specific and pointed.",
+      "words_used": [
+        "patronize",
+        "unstinting",
+        "captious",
+        "perfunctory"
+      ]
+    },
+    {
+      "id": "se-029",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "biography",
+      "stem": "Though he wrote three histories of the war, the general never ___(i)___ his own hesitation at the river crossing, and readers who go to his books for an account of that night find the chapter ending on the evening before and resuming a week later.",
+      "blanks": [
+        {
+          "choices": [
+            "expiated",
+            "conceded",
+            "embellished",
+            "atoned",
+            "extenuated",
+            "acknowledged"
+          ],
+          "answers": [
+            1,
+            5
+          ]
+        }
+      ],
+      "explanation": "'Though he wrote three histories' contrasts with what he never did in them, and the missing chapter shows what that was: he never admitted the hesitation, so 'conceded' and 'acknowledged'. 'Expiated' and 'atoned' are a synonym pair about making amends, which is a moral act, not something done or left undone in a history book. 'Embellished' would mean he dressed the episode up, but he left it out. 'Extenuated' would mean he made excuses for it, which again requires mentioning it.",
+      "words_used": [
+        "concede",
+        "expiate",
+        "embellish",
+        "extenuating"
+      ]
+    },
+    {
+      "id": "tc2-020",
+      "type": "tc2",
+      "difficulty": "easy",
+      "topic": "social science",
+      "stem": "The council's decision to ___(i)___ the festival permit was widely condemned as ___(ii)___: the event had run without incident for twenty years, and the only complaint on record came from a councillor's brother-in-law who owned a rival venue.",
+      "blanks": [
+        {
+          "choices": [
+            "renew",
+            "underwrite",
+            "rescind"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "preemptive",
+            "judicious",
+            "arbitrary"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "A decision that is 'condemned' after twenty incident-free years must have taken the permit away, so 'rescind'. 'Renew' and 'underwrite' would both support the festival, leaving nothing to condemn. Blank (ii) is the charge the colon supports: no incidents and one self-interested complaint mean the decision had no proper grounds, so 'arbitrary'. 'Judicious' is praise, not condemnation, and 'preemptive' would mean the council acted to head off a real problem, which the record shows did not exist.",
+      "words_used": [
+        "rescind",
+        "underwrite",
+        "arbitrary",
+        "judicious",
+        "preemptive"
+      ]
+    },
+    {
+      "id": "tc3-015",
+      "type": "tc3",
+      "difficulty": "hard",
+      "topic": "natural science",
+      "stem": "The two research groups reached the same conclusion by routes so ___(i)___ that their agreement carries unusual weight: one team ___(ii)___ the result from first principles, the other measured it directly, and neither knew of the other's work until both were in print. Skeptics who ___(iii)___ the finding must now explain away not one method but two.",
+      "blanks": [
+        {
+          "choices": [
+            "byzantine",
+            "analogous",
+            "disparate"
+          ],
+          "answer": 2
+        },
+        {
+          "choices": [
+            "derived",
+            "extrapolated",
+            "gleaned"
+          ],
+          "answer": 0
+        },
+        {
+          "choices": [
+            "impugn",
+            "champion",
+            "replicate"
+          ],
+          "answer": 0
+        }
+      ],
+      "explanation": "The colon shows two wholly different approaches, theory and measurement, pursued in ignorance of each other, so the routes were 'disparate', and that is why agreement 'carries unusual weight'. 'Analogous' would make the routes similar, which would add little weight, and 'byzantine' describes complexity, not difference. 'From first principles' identifies the theoretical team's method: they 'derived' the result. 'Extrapolated' means projecting from data, which is the other team's territory, and 'gleaned' means gathering bit by bit. Blank (iii) names the skeptics' stance toward the finding, which they 'must now explain away': they 'impugn' it. 'Champion' is the opposite, and 'replicate' would make them allies rather than doubters.",
+      "words_used": [
+        "disparate",
+        "analogous",
+        "byzantine",
+        "derive",
+        "extrapolate",
+        "glean",
+        "impugn",
+        "champion",
+        "skeptic"
+      ]
+    },
+    {
+      "id": "tc1-035",
+      "type": "tc1",
+      "difficulty": "hard",
+      "topic": "literature",
+      "stem": "The essayist's ___(i)___ manner is easy to mistake for carelessness: he moves from a Roman coin to his uncle's farm to the ethics of lying within a page, but every detour returns to the question he began with, and the reader who follows the whole loop finds that the coin has become an argument.",
+      "blanks": [
+        {
+          "choices": [
+            "succinct",
+            "sententious",
+            "discursive",
+            "desultory",
+            "pedantic"
+          ],
+          "answer": 2
+        }
+      ],
+      "explanation": "The colon describes a manner that wanders from coin to farm to ethics, so it is 'discursive', and the 'but' clause explains why this is only 'easy to mistake' for carelessness: the wandering has a design. 'Desultory' is the trap, since it also means rambling, but it means rambling without plan, and 'every detour returns' rules that out. 'Succinct' is the opposite of a page of detours. 'Pedantic' and 'sententious' describe fussiness and moralizing, and 'the ethics of lying' is a topic he visits, not a tone he adopts.",
+      "words_used": [
+        "discursive",
+        "desultory",
+        "succinct",
+        "pedantic",
+        "sententious"
+      ]
+    },
+    {
+      "id": "se-030",
+      "type": "se",
+      "difficulty": "medium",
+      "topic": "history",
+      "stem": "The envoy's instructions were to ___(i)___ the sultan's august court at every turn: he was to yield on ceremony, swallow insults to his sovereign's titles, and demur at nothing that might endanger the trade concession he had been sent to secure.",
+      "blanks": [
+        {
+          "choices": [
+            "browbeat",
+            "hector",
+            "hoodwink",
+            "importune",
+            "propitiate",
+            "appease"
+          ],
+          "answers": [
+            4,
+            5
+          ]
+        }
+      ],
+      "explanation": "The colon spells out the instructions: yield, swallow insults, object to nothing. That is a policy of keeping the court well disposed at any cost, and 'appease' and 'propitiate' both describe it. 'Browbeat' and 'hector' are a synonym pair meaning to bully, the reverse of yielding on everything. 'Importune' has the right humble tone but means to beg persistently, and the envoy is told to give way, not to plead. 'Hoodwink' would mean deceiving the court, which is not what swallowing insults accomplishes.",
+      "words_used": [
+        "appease",
+        "propitiate",
+        "browbeat",
+        "hector",
+        "importune",
+        "hoodwink",
+        "demur",
+        "august"
+      ]
+    }
+  ]
+}
